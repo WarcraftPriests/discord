@@ -1,6 +1,6 @@
 # Trinkets
 ## Raid
-1.  Belorrelos the Suncaller
+1. Belorrelos the Suncaller
 2. Nymue's Unraveling Spindle
 3. Balefire Branch
 4. Pip's Emerald Friendship Badge
@@ -16,7 +16,7 @@ Still tweaking the APL but early sims show the following trinkets performing wel
 # Crafted Gear (Embellishments)
 All embellishes are in SimC. The below are roughly ranked in order of power.
 
-In both section you will notice Allied Wristguards of Time Dialation relatively high up. On their own they provide `0.5%` DPS upgrade to yourself. By itself this is roughly equivilant to Blue Silken Lining with ~20-30% uptime. This by itself is not massive, but if you take into account the Raid DPS gained it significantly outperforms BSL more consistently. In addition, if you get more groups members to use this you will get more damage as well! It gives 535 Versatility at 483 and the proc rate is hasted, and you can get multiple buffs at once if others are using it. I would strongly consider using this for prog content.
+In both section you will notice Allied Wristguards of Time Dilation relatively high up. On their own they provide `0.5%` DPS upgrade to yourself. By itself this is roughly equivalent to Blue Silken Lining with ~20-30% uptime. This by itself is not massive, but if you take into account the Raid DPS gained it significantly outperforms BSL more consistently. In addition, if you get more groups members to use this you will get more damage as well! It gives 482 Versatility at 486 and the proc rate is hasted, and you can get multiple buffs at once if others are using it. I would strongly consider using this for prog content.
 ## Raid
 1. Undulating Sporecloak
 2. Blue Silken Lining
@@ -27,7 +27,7 @@ In both section you will notice Allied Wristguards of Time Dialation relatively 
 Still tweaking the APL but early sims show the following embellishments performing well:
 1. Undulating Sporecloak
 2. Blue Silken Lining
-3. Allied Wristguards of Time Dialation (see note above)
+3. Allied Wristguards of Time Dilation (see note above)
 ## Others
 There are also several cantrip weapons that are a DPS increase as well to consider:
 1. Vakash the Shadowed Infernal

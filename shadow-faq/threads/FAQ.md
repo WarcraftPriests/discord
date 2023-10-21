@@ -1,31 +1,18 @@
 # FAQs
 
-**Is Mind Flay Gone?**
-- When talenting into Mind Spike it replaces Mind Flay.
+**Is :mf: [Mind Flay](<https://www.wowhead.com/spell=15407>) Gone?**
+- When talenting into :ms: [Mind Spike](<https://www.wowhead.com/spell=73510>) it replaces :mf: [Mind Flay](<https://www.wowhead.com/spell=15407>).
 
-**I dont want to play Mind Spike, how bad is it?**
-- 1-3% DPS, not a massive deal.
+**I don't want to play :ms: [Mind Spike](<https://www.wowhead.com/spell=73510>), how bad is it?**
+- The gap is generally negligible and sometimes :mf: [Mind Flay](<https://www.wowhead.com/spell=15407>) even outperforms :ms: [Mind Spike](<https://www.wowhead.com/spell=73510>).
 
-**Onyx Anulet?**
-- not worth
-
-**Should I stop using Lariat?**
-- Lariat is still good if you have full sockets. As soon as you start to lose them it might make sense to drop this for BSL/Shadowflame/etc. Be sure to sim as what you replace it with can change the right thing to do.
-
-**How do you use Devouring Plague in AoE?**
-- With Mind's Eye you just keep it rolling on a single priority target.
-- With Distorted Reality you can spread this DoT around as targets will live for most of the duration.
-
-**Which Phial should I use?**
-- Vers Phial is good if you want a mix of offensive and defensive power. If you can maintain 70%+ uptime on Corrupting Rage Phial that will net you better dps.
+**How do you use :dp: [Devouring Plague](<https://www.wowhead.com/spell=335467>) in AoE?**
+- With :dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) you just keep it rolling on a single priority target.
+- With :dr: [Distorted Reality](<https://www.wowhead.com/spell=409044>) you can spread this DoT around as targets will live for most of the duration.
 
 **Looking for a Nameplate Color Changer for our DoTS?**
 - [SWP & VT](<https://wago.io/DFokSvoSj>)
 - [DP Version for DR](<https://wago.io/fVWquGeBQ>)
-
-**What is DR and ME?**
-- DR = Distorted Reality
-- ME = Mind's Eye
 
 **Looking for the list of bugs?**
 - <https://bit.ly/3N6p5X4>

@@ -4,7 +4,7 @@
 - Food: Most of the secondary stat foods are better than Feast/Fortune Cookie/etc. Sim this to check probably one of (Feisty Fish Sticks, Aromatic Seafood Platter, Sizzling Seafood Medley, Revenge Served Cold, Thousandbone Tongueslicer, Great Cerulean Sea, or Filet of Fangs)
 ## Enchants
 - Head: Incandescent Essence
-- Weapon: Wafting Devotion / Frozen Writ / Sophic Devotion
+- Weapon: Wafting Devotion / Sophic Devotion
 - Rune: Buzzing Rune once you hit first DR of Haste and Mastery.
 - Legs: Lambent Armor Kit or Frozen Spellthread
 - Chest: Waking Stats
