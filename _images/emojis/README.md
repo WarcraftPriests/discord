@@ -6,7 +6,7 @@
 :dr: [Distorted Reality](<https://www.wowhead.com/spell=409044>)
 :fh: [Flash Heal](<https://www.wowhead.com/spell=2061>)
 :cthun: [Idol of C'Thun](<>)
-:nzoth1: [Idol of N'Zoth](<>)
+:nzoth1: [Idol of N'Zoth](<https://www.wowhead.com/spell=373280>)
 :yshaarj: [Idol of Y'Shaarj](<>)
 :yogg: [Idol of Yogg-Saron](<>)
 :ist: [Inescapable Torment](<https://www.wowhead.com/spell=373427>)
@@ -69,3 +69,5 @@
 - phantasmal pathogen
 - voidtouched
 - void eruption
+- screams of the void
+- mastermind
