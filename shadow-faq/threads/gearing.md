@@ -1,42 +1,42 @@
 # Trinkets
 ## Raid
-1. [Belorrelos the Suncaller](<https://www.wowhead.com/item=207172>)
-2. [Nymue's Unraveling Spindle](<https://www.wowhead.com/item=208615>)
-3. [Balefire Branch](<https://www.wowhead.com/item=159630>)
-4. [Pip's Emerald Friendship Badge](<https://www.wowhead.com/item=207168>)
-5. [Sea Star](<https://www.wowhead.com/item=133201>)
+1. :belorrelos: [Belorrelos the Suncaller](<https://www.wowhead.com/item=207172>)
+2. :balefire: [Balefire Branch](<https://www.wowhead.com/item=159630>)
+3. :pips: [Pip's Emerald Friendship Badge](<https://www.wowhead.com/item=207168>)
+4. :nymue: [Nymue's Unraveling Spindle](<https://www.wowhead.com/item=208615>)
+5. :seastar: [Sea Star](<https://www.wowhead.com/item=133201>)
 
-*Note: [Balefire Branch](<https://www.wowhead.com/item=159630>) in sims does **NOT** take into account taking damage. As such it can be a bait trinket depending on the encounter.*
+*Note: :balefire: [Balefire Branch](<https://www.wowhead.com/item=159630>) in sims does **NOT** take into account taking damage. As such it can be a bait trinket depending on the encounter.*
 
 ## Dungeons
-1. [Belorrelos the Suncaller](<https://www.wowhead.com/item=207172>)
-2. [Pip's Emerald Friendship Badge](<https://www.wowhead.com/item=207168>)
+1. :belorrelos: [Belorrelos the Suncaller](<https://www.wowhead.com/item=207172>)
+2. :pips: [Pip's Emerald Friendship Badge](<https://www.wowhead.com/item=207168>)
 3. [Augury of the Primal Flame](<https://www.wowhead.com/item=208614>)
-4. [Sea Star](<https://www.wowhead.com/item=133201>)
-5. [Nymue's Unraveling Spindle](<https://www.wowhead.com/item=208615>)
-6. [Time-Thief's Gambit](<https://www.wowhead.com/item=207579>)
+4. :seastar: [Sea Star](<https://www.wowhead.com/item=133201>)
+5. :nymue: [Nymue's Unraveling Spindle](<https://www.wowhead.com/item=208615>)
+6. :timethiefs: [Time-Thief's Gambit](<https://www.wowhead.com/item=207579>)
 
 # Crafted Gear (Embellishments)
 All embellishes are in SimC. The below are roughly ranked in order of power.
 
-In both section you will notice [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) relatively high up. On their own they provide ~`0.8%` DPS upgrade to yourself. By itself this is roughly equivalent to [Blue Silken Lining](<https://www.wowhead.com/item=193944>) with ~20-30% uptime. This by itself is not massive, but if you take into account the Raid DPS gained it significantly outperforms BSL more consistently. In addition, if you get more groups members to use this you will get more damage as well! It gives 482 Versatility at 486 and the proc rate is hasted, and you can get multiple buffs at once if others are using it. I would strongly consider using this for prog content.
+In both section you will notice :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) added to the lists. On their own they provide ~`0.5%` DPS upgrade to yourself. By itself this is roughly equivalent to :bsl: [Blue Silken Lining](<https://www.wowhead.com/item=193944>) with ~20% uptime. This by itself is not massive, but if you take into account the Raid DPS gained it outperforms BSL more consistently (closer to ~70-80% uptime). In addition, if you get more groups members to use this you will get more damage as well! It gives 482 Versatility at 486 and the proc rate is hasted, and you can get multiple buffs at once if others are using it. I would definitely consider using this for prog content.
 ## Raid
-1. [Undulating Sporecloak](<https://www.wowhead.com/item=205025>)
-2. [Blue Silken Lining](<https://www.wowhead.com/item=193944>)
-3. [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>)
-4. [Shadowflame-Tempered Armor Patch](<https://www.wowhead.com/item=204710>) (roughly equal to 50% BSL uptime)
-5. [Elemental Lariat](<https://www.wowhead.com/item=193001>) (roughly equal to 30% BSL uptime)
+1. :sporecloak: [Undulating Sporecloak](<https://www.wowhead.com/item=205025>)
+2. :bsl: [Blue Silken Lining](<https://www.wowhead.com/item=193944>)
+3. :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) (Raid DPS is roughly equal to 70-80% BSL uptime)
+4. :stap: [Shadowflame-Tempered Armor Patch](<https://www.wowhead.com/item=204710>) (roughly equal to 50% BSL uptime)
+5. :larry: [Elemental Lariat](<https://www.wowhead.com/item=193001>) (roughly equal to 30% BSL uptime)
 ## Dungeons
-1. [Undulating Sporecloak](<https://www.wowhead.com/item=205025>)
+1. :sporecloak: [Undulating Sporecloak](<https://www.wowhead.com/item=205025>)
 2. [Hood of Surging Time](<https://www.wowhead.com/item=193521>)
-3. [Blue Silken Lining](<https://www.wowhead.com/item=193944>)
-4. [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) (see note above)
-5. [Elemental Lariat](<https://www.wowhead.com/item=193001>)
+3. :bsl: [Blue Silken Lining](<https://www.wowhead.com/item=193944>)
+4. :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) (see note above)
+5. :larry: [Elemental Lariat](<https://www.wowhead.com/item=193001>)
 ## Others
 There are also several cantrip weapons that are a DPS increase as well to consider:
-1. [Vakash, the Shadowed Infernal](<https://www.wowhead.com/item=207788>)
-2. [Iridal, the Earth's Master](<https://www.wowhead.com/item=208321>)
-3. [Dreambinder, Loom of the Great Cycle](<https://www.wowhead.com/item=208616>)
+1. :vakash: [Vakash, the Shadowed Infernal](<https://www.wowhead.com/item=207788>)
+2. :iridal: [Iridal, the Earth's Master](<https://www.wowhead.com/item=208321>)
+3. :dreambinder: [Dreambinder, Loom of the Great Cycle](<https://www.wowhead.com/item=208616>)
 
 # Tier Set (T31) Value
 ## Single Target
