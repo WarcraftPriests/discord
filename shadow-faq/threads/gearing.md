@@ -39,6 +39,8 @@ There are also several cantrip weapons that are a DPS increase as well to consid
 3. :dreambinder: [Dreambinder, Loom of the Great Cycle](<https://www.wowhead.com/item=208616>)
 
 # Tier Set (T31) Value
+To learn about when to transition to T31 from T30 check out [this message](https://discord.com/channels/118456785047781384/1163627440648753273/1168613586189430864)
+
 ## Single Target
 - 2 set: 7.49%
 - 2+4 set: 10.75%
