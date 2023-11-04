@@ -2,9 +2,9 @@
 ## :wowhead: [**Ellipsis' Wowhead Guide**](<https://www.wowhead.com/guide/classes/priest/shadow/overview-pve-dps>) - :check:
 ## :method: [**Jaerv's Method Guide**](<https://www.method.gg/guides/shadow-priest>)      - :check:
 
-## :swp: [**Talents & Builds**](https://discord.com/channels/118456785047781384/1163626863080517772/1163626958911963227)       :chest: [**Gearing**](https://discord.com/channels/118456785047781384/1163627124599570523/1163627172800508085)
-## :wa: [**WeakAuras**](https://discord.com/channels/118456785047781384/1163627251724726272/1163627307194388480)                :bookopen: [**FAQ**](https://discord.com/channels/118456785047781384/1163627440648753273/1163627483229327453)
-## :book~1: [**Glossary**](https://discord.com/channels/118456785047781384/1163627540691308586/1163627578674913392)                     :phial: [**Prep**](https://discord.com/channels/118456785047781384/1163629772920860822/1163629876344016959)
+## :swp: [**Talents & Builds**](https://discord.com/channels/118456785047781384/1170437618903810198)       :chest: [**Gearing**](https://discord.com/channels/118456785047781384/1170438451276030003)
+## :wa: [**WeakAuras**](https://discord.com/channels/118456785047781384/1170438550169337906)                :bookopen: [**FAQ**](https://discord.com/channels/118456785047781384/1170438625935228958)
+## :book~1: [**Glossary**](https://discord.com/channels/118456785047781384/1170438694457585726)                     :phial: [**Prep**](https://discord.com/channels/118456785047781384/1170438919997902951)
 
 ## Other Guides
 :punchcard: [**Elvenbane's Macro Guide**](<https://us.forums.blizzard.com/en/wow/t/useful-macro-templates/42937>)
