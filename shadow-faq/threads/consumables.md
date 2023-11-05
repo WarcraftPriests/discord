@@ -1,11 +1,11 @@
 # Consumables
 - Flask: :corrupting_rage: [Iced Phial of Corrupting Rage](<https://www.wowhead.com/item=191329>) (if 70% uptime or lower run :tepid_vers: [Phial of Tepid Versatility](<https://www.wowhead.com/item=191341>))
 - Potion: :potion: [Elemental Potion of Ultimate Power](<https://www.wowhead.com/item=191383>)
-- Food: Most of the secondary stat foods are better than [Grand Banquet of the Kalu'ak](<https://www.wowhead.com/item=197794>)/[Fortune Cookie](<https://www.wowhead.com/item=62649>)/etc. Sim this to check to be sure.
-  - Below both DR thresholds for Haste/Mastery: [Sizzling Seafood Medley](<https://www.wowhead.com/item=197784>)
-  - Above Haste DR threshold only: [Thousandbone Tongueslicer](<https://www.wowhead.com/item=197786>) or [Great Cerulean Sea](<https://www.wowhead.com/item=197787>)
-  - Above Mastery DR threshold only: [Feisty Fish Sticks](<https://www.wowhead.com/item=197782>) or [Aromatic Seafood Platter](<https://www.wowhead.com/item=197783>)
-  - Above both DR thresholds: [Revenge, Served Cold](<https://www.wowhead.com/item=197785>)
+- Food: Most of the secondary stat foods are better than :feast: [Grand Banquet of the Kalu'ak](<https://www.wowhead.com/item=197794>)/:fortune: [Fortune Cookie](<https://www.wowhead.com/item=62649>)/etc. Sim this to check to be sure.
+  - Below both DR thresholds for Haste/Mastery: :seafood: [Sizzling Seafood Medley](<https://www.wowhead.com/item=197784>)
+  - Above Haste DR threshold only: :thousandbone: [Thousandbone Tongueslicer](<https://www.wowhead.com/item=197786>) or :cerulean: [Great Cerulean Sea](<https://www.wowhead.com/item=197787>)
+  - Above Mastery DR threshold only: :fishsticks: [Feisty Fish Sticks](<https://www.wowhead.com/item=197782>) or :platter: [Aromatic Seafood Platter](<https://www.wowhead.com/item=197783>)
+  - Above both DR thresholds: :revenge: [Revenge, Served Cold](<https://www.wowhead.com/item=197785>)
 ## Enchants
 - Head: :incandescent: [Incandescent Essence](<https://www.wowhead.com/item=210494>)
 - Weapon: :enchant: [Wafting Devotion](<https://www.wowhead.com/item=200058>) / :enchant: [Sophic Devotion](<https://www.wowhead.com/item=200054>)

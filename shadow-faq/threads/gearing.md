@@ -11,7 +11,7 @@
 ## Dungeons
 1. :belorrelos: [Belorrelos the Suncaller](<https://www.wowhead.com/item=207172>)
 2. :pips: [Pip's Emerald Friendship Badge](<https://www.wowhead.com/item=207168>)
-3. [Augury of the Primal Flame](<https://www.wowhead.com/item=208614>)
+3. :augury: [Augury of the Primal Flame](<https://www.wowhead.com/item=208614>)
 4. :seastar: [Sea Star](<https://www.wowhead.com/item=133201>)
 5. :nymue: [Nymue's Unraveling Spindle](<https://www.wowhead.com/item=208615>)
 6. :timethiefs: [Time-Thief's Gambit](<https://www.wowhead.com/item=207579>)
@@ -28,7 +28,7 @@ In both section you will notice :wristguards: [Allied Wristguards of Time Dilati
 5. :larry: [Elemental Lariat](<https://www.wowhead.com/item=193001>) (roughly equal to 30% BSL uptime)
 ## Dungeons
 1. :sporecloak: [Undulating Sporecloak](<https://www.wowhead.com/item=205025>)
-2. [Hood of Surging Time](<https://www.wowhead.com/item=193521>)
+2. :hood: [Hood of Surging Time](<https://www.wowhead.com/item=193521>)
 3. :bsl: [Blue Silken Lining](<https://www.wowhead.com/item=193944>)
 4. :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) (see note above)
 5. :larry: [Elemental Lariat](<https://www.wowhead.com/item=193001>)
