@@ -28,7 +28,7 @@ In both section you will notice :wristguards: [Allied Wristguards of Time Dilati
 3. :stap: [Shadowflame-Tempered Armor Patch](<https://www.wowhead.com/item=204710>) (roughly equal to 50% BSL uptime)
 4. :larry: [Elemental Lariat](<https://www.wowhead.com/item=193001>) (roughly equal to 30% BSL uptime)
 ## Dungeons
-1. :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) (see note above)
+1. :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) (if not using Engineering Battle-Rez Wrists)
 2. :hood: [Hood of Surging Time](<https://www.wowhead.com/item=193521>)
 3. :bsl: [Blue Silken Lining](<https://www.wowhead.com/item=193944>)
 4. :larry: [Elemental Lariat](<https://www.wowhead.com/item=193001>)
