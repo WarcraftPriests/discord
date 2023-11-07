@@ -1,3 +1,5 @@
+# Gearing Guides
+## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot>) :wowhead: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/bis-gear>)
 # Trinkets
 ## Raid
 1. :belorrelos: [Belorrelos the Suncaller](<https://www.wowhead.com/item=207172>)
@@ -19,20 +21,21 @@
 # Crafted Gear (Embellishments)
 All embellishes are in SimC. The below are roughly ranked in order of power.
 
-In both section you will notice :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) added to the lists. On their own they provide ~`0.5%` DPS upgrade to yourself. By itself this is roughly equivalent to :bsl: [Blue Silken Lining](<https://www.wowhead.com/item=193944>) with ~20% uptime. This by itself is not massive, but if you take into account the Raid DPS gained it outperforms BSL more consistently (closer to ~70-80% uptime). In addition, if you get more groups members to use this you will get more damage as well! It gives 482 Versatility at 486 and the proc rate is hasted, and you can get multiple buffs at once if others are using it. I would definitely consider using this for prog content.
+In both section you will notice :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) added to the lists. On their own they provide ~`0.5%` DPS upgrade to yourself. By itself this is roughly equivalent to :bsl: [Blue Silken Lining](<https://www.wowhead.com/item=193944>) with ~20% uptime. This by itself is not massive, but if you take into account the Raid DPS gained it outperforms BSL more consistently (closer to ~70-80% uptime). In addition, if you get more groups members to use this you will get more damage as well! It gives 482 Versatility at 486 and the proc rate is hasted, and you can get multiple buffs at once if others are using it. I would strongly consider using this for prog content.
 ## Raid
-1. :sporecloak: [Undulating Sporecloak](<https://www.wowhead.com/item=205025>)
-2. :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) (Raid DPS is roughly equal to 70-80% BSL uptime)
-3. :bsl: [Blue Silken Lining](<https://www.wowhead.com/item=193944>)
-4. :stap: [Shadowflame-Tempered Armor Patch](<https://www.wowhead.com/item=204710>) (roughly equal to 50% BSL uptime)
-5. :larry: [Elemental Lariat](<https://www.wowhead.com/item=193001>) (roughly equal to 30% BSL uptime)
+1. :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) (Raid DPS is roughly equal to 70-80% BSL uptime)
+2. :bsl: [Blue Silken Lining](<https://www.wowhead.com/item=193944>)
+3. :stap: [Shadowflame-Tempered Armor Patch](<https://www.wowhead.com/item=204710>) (roughly equal to 50% BSL uptime)
+4. :larry: [Elemental Lariat](<https://www.wowhead.com/item=193001>) (roughly equal to 30% BSL uptime)
 ## Dungeons
-1. :sporecloak: [Undulating Sporecloak](<https://www.wowhead.com/item=205025>)
+1. :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) (see note above)
 2. :hood: [Hood of Surging Time](<https://www.wowhead.com/item=193521>)
 3. :bsl: [Blue Silken Lining](<https://www.wowhead.com/item=193944>)
-4. :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) (see note above)
-5. :larry: [Elemental Lariat](<https://www.wowhead.com/item=193001>)
+4. :larry: [Elemental Lariat](<https://www.wowhead.com/item=193001>)
 ## Others
+If you are looking for more defensive options you can consider using :sporecloak: [Undulating Sporecloak](<https://www.wowhead.com/item=205025>) and/or the [Choker of Shielding](<https://www.wowhead.com/item=193002>). Sporecloak gives about `0.5%` DPS. Using either of these options would
+cost you on average 1% DPS each compared to a throughput embellishment.
+# Special-Effect Weapons
 There are also several cantrip weapons that are a DPS increase as well to consider:
 1. :vakash: [Vakash, the Shadowed Infernal](<https://www.wowhead.com/item=207788>)
 2. :iridal: [Iridal, the Earth's Master](<https://www.wowhead.com/item=208321>)

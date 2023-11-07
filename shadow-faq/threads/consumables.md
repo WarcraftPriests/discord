@@ -1,3 +1,5 @@
+# Prep Guides
+## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gems-enchants-consumables>)
 # Consumables
 - Flask: :corrupting_rage: [Iced Phial of Corrupting Rage](<https://www.wowhead.com/item=191329>) (if 70% uptime or lower run :tepid_vers: [Phial of Tepid Versatility](<https://www.wowhead.com/item=191341>))
 - Potion: :potion: [Elemental Potion of Ultimate Power](<https://www.wowhead.com/item=191383>)

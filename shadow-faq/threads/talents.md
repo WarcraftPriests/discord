@@ -1,3 +1,5 @@
+# Talent Guides
+## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-spec-builds-talents>) :wowhead: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/talent-builds-pve-dps>)
 # Single Target
 [DA_yshaarj_cthun_81144678134703_Flay_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFQUFSiVFghBBR>)
 ```
