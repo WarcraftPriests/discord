@@ -1,5 +1,5 @@
 # Gearing Guides
-## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot>) :wowhead: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/bis-gear>)
+## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot>) :wowhead: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/bis-gear>) :youtube: [YouTube](<https://youtu.be/pydLp1-XaGI>)
 # Trinkets
 ## Raid
 1. :belorrelos: [Belorrelos the Suncaller](<https://www.wowhead.com/item=207172>)

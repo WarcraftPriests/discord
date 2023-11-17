@@ -1,57 +1,57 @@
 # Talent Guides
 ## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-spec-builds-talents>) :wowhead: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/talent-builds-pve-dps>)
 # Single Target
-[DA_yshaarj_cthun_81144678134703_Flay_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFQUFSiVFghBBR>)
-```
-BIQAAAAAAAAAAAAAAAAAAAAAAIQEBAAAAAAAAAAAAIJpFkIl0ikERSSBShkkEpRgICpItQSQBC
-```
-
-[DA_yshaarj_cthun_81144611304367_Spike_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVFFQVFGSVFghBBR>)
+[DA_yshaarj_cthun_81144611304367_Spike_DR](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVFFQVFGSVFghBBR>)
 ```
 BIQAAAAAAAAAAAAAAAAAAAAAAIIREAAAAAAAAAAAAgkoFkIl0OgkERSSBSjkkEpRgICpItQSQBSA
 ```
 
-*Note: :ms: [Mind Spike](<https://www.wowhead.com/spell=73510>) has a slightly higher theoretical max (+0.7%) if you are able to fully turret.*
+[DA_yshaarj_cthun_81144678134703_Flay_DR](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFQUFSiVFghBBR>)
+```
+BIQAAAAAAAAAAAAAAAAAAAAAAIQEBAAAAAAAAAAAAIJpFkIl0ikERSSBShkkEpRgICpItQSQBC
+```
+
+*Note: :ms: [Mind Spike](<https://www.wowhead.com/spell=73510>) builds are roughly equal to
+:mf: [Mind Flay](<https://www.wowhead.com/spell=15407>) builds, play whichever you prefer.*
 ## Single Target + :sc: [Shadow Crash](<https://www.wowhead.com/spell=205385>)
 These builds maximize single target damage while still having :sc: [Shadow Crash](<https://www.wowhead.com/spell=205385>) and :sc: [Whispering Shadows](<https://www.wowhead.com/spell=406777>).
 
-[DA_yshaarj_cthun_81144444614575_Spike_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUVVEJVFghBBR>)
+Taking these builds you lose about **1.5%** single target damage on average.
+
+[DA_yshaarj_cthun_81144444614575_Spike_DR](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUVVEJVFghBBR>)
 ```
 BIQAAAAAAAAAAAAAAAAAAAAAAIIJJHAAAAAAAAAAAAAIhWQiUSjkEJJJFIFSSSkGBiIki0CJBFIB
 ```
 
-[DA_yshaarj_cthun_81144379324335_Flay_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUUVQlVFghBBR>)
+[DA_yshaarj_cthun_81144379324335_Flay_DR](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUUVQlVFghBBR>)
 ```
 BIQAAAAAAAAAAAAAAAAAAAAAAIQSOwBAAAAAAAAAAAAASkWQiUSLSSkkkUgUIJJRaEIiQKSLkEUgA
 ```
 
-# 2 Target
-
-[DA_yshaarj_cthun_81144609232815_Spike_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFURVGCVFghBBR>)
-```
-BIQAAAAAAAAAAAAAAAAAAAAAAIIJRAAAAAAAAAAAAASiWQiU0IJRSSSBShkkEpRgICpItQSQBSA
-```
+*Note: The :ms: [Mind Spike](<https://www.wowhead.com/spell=73510>) build is roughly 2% ahead of the :mf: [Mind Flay](<https://www.wowhead.com/spell=15407>) build on pure single target.
 
 # 3 Target Council of Dreams
-This sim is designed specifically for Council of Dreams where you have 2 targets stacked and 1 off spread from the other two for a unique council boss. This is still being tweaked but there are two competitive builds depending on if you want more priority target damage or more overall/cleave with :nzoth1: [Idol of N'Zoth](<https://www.wowhead.com/spell=373280>).
+This sim is designed specifically for Council of Dreams where you have 2 targets stacked and 1 off spread from the other two for a unique council boss. If you are able to keep the bosses stacked
+more you might see more value from the Void Eruption build.
 
-[DA_yshaarj_nzoth_cthun_90808285648815_Spike_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFURVGCVFIFRBR>)
+[DA_yshaarj_nzoth_cthun_90808285648815_Spike_DR](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVFFURVGCVFIFRBR>)
 ```
-BIQAAAAAAAAAAAAAAAAAAAAAAkgkQAAAAAAAAAAAAASiWCJJFNSSkEJFIFSSSkGBiIki0CJBFIB
-```
-
-[DA_yshaarj_nzoth_cthun_90808081946543_Flay_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUQVSkVFIFRBR>)
-```
-BIQAAAAAAAAAAAAAAAAAAAAAAkAJOAAAAAAAAAAAAAgkkWCJJFtIJRSkUgUIJJRaEIiQKSLkEUgA
+BIQAAAAAAAAAAAAAAAAAAAAAAkgkQAAAAAAAAAAAAASiWCJJFNSSkEJFINSSSkGBiIki0CJBFIB
 ```
 
-[DA_yshaarj_cthun_81144713041839_Spike_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFURVEKVFghBBR>)
+[VF_yshaarj_nzoth_cthun_90808354445231_Flay_DR](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUQUSiVFIFRBV>)
 ```
-BIQAAAAAAAAAAAAAAAAAAAAAAIIJJBAAAAAAAAAAAAIhWQiU0IJRSSSBShkkEpRgICpItQSQBSA
+BIQAAAAAAAAAAAAAAAAAAAAAAkAJEAAAAAAAAAAAAgkkWCJRTLSSkEJFIFSSSkGBiIki0CJBFIA
+```
+
+If you are still using the Season 2 4-piece Tier set consider using this build instead:
+[VF_Season_2_Tier_Set](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVRFUQVRiQUKEVBU>)
+```
+BIQAAAAAAAAAAAAAAAAAAAAAAECCBAAAAAAAAAAAAIOQaSkk0ISSSSkUg0IJJRaEIiQKSLkEUQC
 ```
 
 # Dungeons
-These builds still use flex points. The following can be swapped around and are within 1% damage of each other. These are roughly listed in order of strength.
+These builds use flex points. The following can be swapped around and are within 1% damage of each other. These are roughly listed in order of strength.
 - :mental_decay: [Mental Decay](<https://www.wowhead.com/spell=375994>) (Single Target)
 - :dark_evang: [Dark Evangelism](<https://www.wowhead.com/spell=391095>)
 - :mind_dev: [Mind Devourer](<https://www.wowhead.com/spell=373202>) (Good with :dr: [Distorted Reality](<https://www.wowhead.com/spell=409044>) builds)
@@ -59,51 +59,47 @@ These builds still use flex points. The following can be swapped around and are 
 - :vt: [Maddening Touch](<https://www.wowhead.com/spell=391228>) (Good with :dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) builds)
 - :voidtouched: [Voidtouched](<https://www.wowhead.com/spell=407430>) (Burst/:mf: [Mind Flay](<https://www.wowhead.com/spell=15407>))
 
-:dr: [Distorted Reality](<https://www.wowhead.com/spell=409044>) is generally still outperforming :dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) in the overall, although certain builds will prefer Mind's Eye for more single target or priority target damage. Pick whichever you prefer.
-- 1.38% more m+ overall avg with Distorted Reality
-- 0.29% more st with Distorted Reality
+:dr: [Distorted Reality](<https://www.wowhead.com/spell=409044>) and :dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) are basically identical in terms of damage output in Mythic+. Certain builds will prefer Mind's Eye for more priority target damage inside AoE, while others will like Distorted Reality to make managing Devouring Plague easier. Pick whichever you prefer.
 
 :ms: [Mind Spike](<https://www.wowhead.com/spell=73510>) and :mf: [Mind Flay](<https://www.wowhead.com/spell=15407>) builds are generally within margin of error. Higher push keys slightly prefer Mind Flay generally speaking. They are close enough to where you can play whichever you personally prefer.
 
 While most situations you will see better results with :da: [Dark Ascension](<https://www.wowhead.com/spell=391109>), as you get into higher push keys :void_eruption: [Void Eruption](<https://www.wowhead.com/spell=228260>) still becomes competitive if not better as you are doing bigger pulls, less of them.
 
-In the below table I also show options for using :mastermind: [Mastermind](<https://www.wowhead.com/spell=391151>) (MM) vs. :screams: [Screams of the Void](<https://www.wowhead.com/spell=375767>) (Screams). You will typically see Mastermind do better in Single Target situations but Screams will perform well the more raw AoE you have in the key.
+Most of these builds will prefer to use :screams: [Screams of the Void](<https://www.wowhead.com/spell=375767>) for more overall damage, however if you are specifically looking for more single
+target you can instead swap to using :mastermind: [Mastermind](<https://www.wowhead.com/spell=391151>).
 
 ## :yshaarj: [Y'Shaarj](<https://www.wowhead.com/spell=373310>) + :nzoth1: [N'Zoth](<https://www.wowhead.com/spell=373280>) + :cthun: [C'Thun](<https://www.wowhead.com/spell=377349>)
 General build that is the foundation m+ build.
 
 I've listed several variations of this build, all of which are competitive. Use the rough list to help understand which one makes sense for your key:
 - :da: [Dark Ascension](<https://www.wowhead.com/spell=391109>): Standard option that will perform well in most keys of any level.
-- :void_eruption: [Void Eruption](<https://www.wowhead.com/spell=228260>): Heavily trash focused build that thrives the more mobs you pull at once for a noticeable dip in single target. Particularly intended for high push keys.
+- :void_eruption: [Void Eruption](<https://www.wowhead.com/spell=228260>): Heavily trash focused build that thrives the more mobs you pull at once for a noticeable dip in single target. Particularly intended for high push keys. Seems to stand out well in Throne of the Tides.
 
-Note: you can still play :ms: [Mind Spike](<https://www.wowhead.com/spell=73510>) versions with :da: [Dark Ascension](<https://www.wowhead.com/spell=391109>) builds if you prefer.
+Note: :da: [Dark Ascension](<https://www.wowhead.com/spell=391109>) builds can flex between using :ms: [Mind Spike](<https://www.wowhead.com/spell=73510>) or :mf: [Mind Flay](<https://www.wowhead.com/spell=15407>) depending on your preference. :void_eruption: [Void Eruption](<https://www.wowhead.com/spell=228260>) builds should always play with Mind Flay.
 
 ### :da: [Dark Ascension](<https://www.wowhead.com/spell=391109>)
-[DA_yshaarj_nzoth_cthun_89674249664431_Spike_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVRFUVVEJVFgFRBE>)
+[DA_yshaarj_nzoth_cthun_90808078030767_Spike_DR](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVRFURVGgVFIFRBE>)
 ```
-BIQAAAAAAAAAAAAAAAAAAAAAAkgkIHAAAAAAAAAAAAAIhWEJJlgkEJJJFINSSSkGBiIki0CJBFIB
+BIQAAAAAAAAAAAAAAAAAAAAAAkgkAAAAAAAAAAAAAgkolEJJFikEJRSBSjkkEpRgICpItQSQBSA
 ```
-- **:dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) version**: Drop :mind_dev: [Mind Devourer](<https://www.wowhead.com/spell=373202>) (x2) and :phantasmal: [Phantasmal Pathogen](<https://www.wowhead.com/spell=407469>) (x1) for :vt: [Maddening Touch](<https://www.wowhead.com/spell=391228>) (x2) and :dark_evang: [Dark Evangelism](<https://www.wowhead.com/spell=391095>) (x1)
-- **Screams version**: Always use 2 points of :vt: [Maddening Touch](<https://www.wowhead.com/spell=391228>)
-
-[DA_yshaarj_nzoth_cthun_89674310203311_Flay_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVRFUUVQoVFgFRBE>)
-```
-BIQAAAAAAAAAAAAAAAAAAAAAAkAJCAAAAAAAAAAAAgEpFRSSJikEJJJFINSSSkGBiIki0CJBFIA
-```
-- **:dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) version**: Drop :mind_dev: [Mind Devourer](<https://www.wowhead.com/spell=373202>) (x2) for :vt: [Maddening Touch](<https://www.wowhead.com/spell=391228>) (x2)
-- **Screams version**: Just swap out :mastermind: [Mastermind](<https://www.wowhead.com/spell=391151>) for :screams: [Screams of the Void](<https://www.wowhead.com/spell=375767>)
+- If you would like to use :dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) the build is exactly the same otherwise.
+- If you would like to use :mf: [Mind Flay](<https://www.wowhead.com/spell=15407>) drop :ms: [Mind Spike](<https://www.wowhead.com/spell=73510>) and Mind Melt for :voidtouched: [Voidtouched](<https://www.wowhead.com/spell=407430>) and :mental_decay: [Mental Decay](<https://www.wowhead.com/spell=375994>).
 
 ### :void_eruption: [Void Eruption](<https://www.wowhead.com/spell=228260>)
-[VF_yshaarj_nzoth_cthun_90808081946543_Flay_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVRFUQVSkVFIFRBU>)
+[VF_yshaarj_nzoth_cthun_90808077760431_Flay_DR](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVRFUUVSgVFIFRBU>)
 ```
-BIQAAAAAAAAAAAAAAAAAAAAAAkAJOAAAAAAAAAAAAAgkkWSkk0ISSkEJFINSSSkGBiIki0CJBFIA
+BIQAAAAAAAAAAAAAAAAAAAAAAkAJAAAAAAAAAAAAAIJplEJJtISSkEJFINSSSkGBiIki0CJBFIA
 ```
-- **:dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) version**: Drop :mind_dev: [Mind Devourer](<https://www.wowhead.com/spell=373202>) for :mental_decay: [Mental Decay](<https://www.wowhead.com/spell=375994>)
+- If you would like to use :dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) the build is exactly the same otherwise.
+
+*Note: If you are curious about the previous season build with :yogg: [Idol of Yogg-Saron](<https://www.wowhead.com/spell=373273>) it is roughly 5% behind on average.*
 
 ## :yshaarj: [Y'Shaarj](<https://www.wowhead.com/spell=373310>) + :cthun: [C'Thun](<https://www.wowhead.com/spell=377349>)
-This build drops :nzoth1: [Idol of N'Zoth](<https://www.wowhead.com/spell=373280>) and is a slight variation to the Raid Single Target build to add :sc: [Shadow Crash](<https://www.wowhead.com/spell=205385>). This is equally competitive in Mythic+ dungeons, especially for Tyrannical weeks. As always you can still take :dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) with these builds if you prefer.
+This build drops :nzoth1: [Idol of N'Zoth](<https://www.wowhead.com/spell=373280>) and is a slight variation to the Raid Single Target build to add :sc: [Shadow Crash](<https://www.wowhead.com/spell=205385>). This is equally competitive in Mythic+ dungeons, especially for Tyrannical weeks. As always you can still take :dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) with these builds if you prefer. This build also does generally well in Atal'Dazar, Murozond's Rise, and Waycrest Manor.
 
-[DA_yshaarj_cthun_81144444614575_Spike_DR](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVRFUVVEJVFghBBE>)
+*Note: This build is the same as the raid version.*
+
+[DA_yshaarj_cthun_81144444614575_Spike_DR](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVRFUVVEJVFghBBE>)
 ```
 BIQAAAAAAAAAAAAAAAAAAAAAAIIJJHAAAAAAAAAAAAAIhWEJSJIJRSSSBSjkkEpRgICpItQSQBSA
 ```
