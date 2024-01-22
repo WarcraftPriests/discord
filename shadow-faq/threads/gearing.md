@@ -64,3 +64,7 @@ Stat Distribution Example for Single Target:
 - Haste: 6000
 - Critical Strike: 3000
 - Versatility: 1000
+
+If you are optimizing for high push-key Mythic+ environments you should strongly consider using more Versatility than usual. As long as you keep about 5000 Haste and Mastery you can continue to stack Versatility for a relatively small damage loss for a massive gain in survivability.
+
+Check out the [IcyVeins Stats Guide](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-stat-priority>) for more info.

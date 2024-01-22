@@ -4,5 +4,9 @@
 - [Publik's WA's for every Spec](<https://wago.io/search/Type:+Collection+user:+publik>)
 - [Simple Void Eruption + Void Bolt Aura](<https://wago.io/3UtaqccQs>)
 
+# Plater
+- [SWP & VT Color Changer](<https://wago.io/DFokSvoSj>)
+- [DP Version for DR Color Changer](<https://wago.io/fVWquGeBQ>)
+
 # Addons
 - [Twintop's Resource Bar](<https://www.curseforge.com/wow/addons/twintops-insanity-bar>)
