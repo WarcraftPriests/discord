@@ -1,5 +1,8 @@
 # Prep Guides
 ## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gems-enchants-consumables>)
+
+Note that for builds using :void_eruption: [Void Eruption](<https://www.wowhead.com/spell=228260>) you could consider stacking even more haste, up to about 42%.
+
 # Consumables
 - Flask: :corrupting_rage: [Iced Phial of Corrupting Rage](<https://www.wowhead.com/item=191329>) (if 70% uptime or lower run :tepid_vers: [Phial of Tepid Versatility](<https://www.wowhead.com/item=191341>))
 - Potion: :potion: [Elemental Potion of Ultimate Power](<https://www.wowhead.com/item=191383>)
@@ -10,16 +13,16 @@
   - Above both DR thresholds: :revenge: [Revenge, Served Cold](<https://www.wowhead.com/item=197785>)
 ## Enchants
 - Head: :incandescent: [Incandescent Essence](<https://www.wowhead.com/item=210494>)
-- Weapon: :enchant: [Wafting Devotion](<https://www.wowhead.com/item=200058>) / :enchant: [Sophic Devotion](<https://www.wowhead.com/item=200054>)
+- Weapon: :enchant: [Wafting Devotion](<https://www.wowhead.com/item=200058>)
 - Rune Priority: 
   - Below both DR thresholds: :howling: [Howling Rune](<https://www.wowhead.com/item=194820>)
   - Above Haste DR threshold only: :hissing: [Hissing Rune](<https://www.wowhead.com/item=204973>)
   - Above Mastery DR threshold only: :howling: [Howling Rune](<https://www.wowhead.com/item=194820>)
   - Above both DR thresholds: :buzzing: [Buzzing Rune](<https://www.wowhead.com/item=194823>)
-- Legs: :lambent: [Lambent Armor Kit](<https://www.wowhead.com/item=204702>) or :frozen_spellthread: [Frozen Spellthread](<https://www.wowhead.com/item=194013>)
+- Legs: :lambent: [Lambent Armor Kit](<https://www.wowhead.com/item=204702>)
 - Chest: :enchant: [Waking Stats](<https://www.wowhead.com/item=200030>)
 - Ring Enchant Priority:
-  - **Below 30-35% haste?** Use Haste Enchants.
+  - **Below 35-42% haste?** Use Haste Enchants.
   - **Below 19-20% mastery?** Use Mastery Enchants.
   - **At or above both thresholds?** Consider using Critical Strike or Versatility Enchants.
 ## Gems
