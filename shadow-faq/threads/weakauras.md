@@ -6,8 +6,9 @@
 - [Season 4 Set Bonus Tracker](<https://wago.io/ww8949l2N>)
 
 # Plater
-- [SWP & VT Color Changer](<https://wago.io/DFokSvoSj>)
+- [VT Nameplate Color Changer](<https://wago.io/OTpN9X9Cc>)
 - [DP Version for DR Color Changer](<https://wago.io/fVWquGeBQ>)
+- [Publik's Plater Profile](<https://wago.io/mO6BO5dHG>)
 
 # Addons
 - [Twintop's Resource Bar](<https://www.curseforge.com/wow/addons/twintops-insanity-bar>)

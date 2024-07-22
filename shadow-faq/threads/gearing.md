@@ -1,5 +1,5 @@
 # Gearing Guides
-## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot>) :wowhead~1: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/bis-gear>) :youtube: [YouTube](<https://youtu.be/pydLp1-XaGI>)
+## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot>) :wowhead~1: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/bis-gear>) :youtube: [YouTube](<https://www.youtube.com/playlist?list=PLxX8_7Ewk0bAhF3hPw4Rbn2YQQy9SXjoO>)
 # Trinkets
 ## Raid
 1. [Umbrelskul's Fractured Heart](<https://www.wowhead.com/item=212684>) (Fight has Adds)
@@ -47,8 +47,8 @@ This season you want to prioritize getting :vakash: [Vakash, the Shadowed Infern
 This season you should aim to either purchase or acquire the two special-effect rings from Vault of the Incarnates. Both of these can be procced effectively when using Vakash and the helm enchant, Incandescent Essence. You can also use the neck from Amirdrassil for more defensive value.
 
 - [Seal of Diurna's Chosen](<https://www.wowhead.com/item=195480>)
-- [Seal of Filial Duty](<>)
-- [Ouroboreal Necklet](<>)
+- [Seal of Filial Duty](<https://www.wowhead.com/item=195526>)
+- [Ouroboreal Necklet](<https://www.wowhead.com/item=210214>)
 
 # What to spend Bullions on?
 Below is a rough list, and not set in stone for every player. Depending on other drops you get you might adjust this list.
@@ -63,7 +63,7 @@ Below is a rough list, and not set in stone for every player. Depending on other
 
 Note that as the season goes on you can eventually buy everything you would need. You can acquire one Bullion per week and need 2 to purchase an item.
 
-# Tier Set (T31) Value
+# Tier Set (S4) Value
 
 ## Single Target
 - 2 set: 4.07%

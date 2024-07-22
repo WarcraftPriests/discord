@@ -1,7 +1,7 @@
 # Glossary
 ## Shadow Spells
 ### Actives
-- **SF**: :sf: [Shadowform](<https://www.wowhead.com/spell=232698>)
+- **SF**: :sf~1: [Shadowform](<https://www.wowhead.com/spell=232698>)
 - **SWP**: :swp: [Shadow Word: Pain](<https://www.wowhead.com/spell=589>)
 - **VT**: :vt: [Vampiric Touch](<https://www.wowhead.com/spell=34914>)
 - **MB**: :mb: [Mind Blast](<https://www.wowhead.com/spell=8092>)

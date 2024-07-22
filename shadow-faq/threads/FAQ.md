@@ -11,7 +11,7 @@
 - With :dr: [Distorted Reality](<https://www.wowhead.com/spell=409044>) you can spread this DoT around as targets will live for most of the duration.
 
 ## Looking for a Nameplate Color Changer for our DoTS?
-- [SWP & VT](<https://wago.io/DFokSvoSj>)
+- [VT Nameplate Color Changer](<https://wago.io/OTpN9X9Cc>)
 - [DP Version for DR](<https://wago.io/fVWquGeBQ>)
 
 ## Looking for the list of bugs?
@@ -19,7 +19,7 @@
 
 ## Looking for Feedback Posts?
 - [Dragonflight Feedback](<https://us.forums.blizzard.com/en/wow/t/shadow-priest-dragonflight-feedback/1819255>)
-- [The War Within Alpha Feedback 1](<https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver/>)
+- [The War Within Alpha Feedback 1](<https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver/>) - [Forum Post](<https://us.forums.blizzard.com/en/wow/t/feedback-priest-updates/1833178/2>)
 
 ## Shadow Word: Podcast
 - :youtube: [YouTube](<https://www.youtube.com/playlist?list=PLxX8_7Ewk0bASf44ESDyDbm33Dos5sm1X>)
