@@ -1,46 +1,40 @@
 # Talent Guides
 ## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-spec-builds-talents>) :wowhead: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/talent-builds-pve-dps>)
 
-**NOTE:** The following builds are made with the Season 4 set bonus in mind. If you are still using the Season 3 set bonus you should use [these builds](<https://gist.github.com/seanpeters86/103b5aac6c707593c2a6dd25d740bd21>) until you get the new 4-set. If you do not have any tier yet you should use the new builds below.
+**Pre-Patch is going to be a bit unstable so take these builds with a grain of salt. We are focused on TWW resources and guides as our first priority.**
 
 # Single Target
----------------------------ST IMAGE HERE---------------------------
-[Void Eruption](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFQUFQqQUGkFBU>)
+[Void Eruption](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREFAVFEERUFEKFRKBQCBUNVFFQUFQqQUGkFBUAA>)
 ```
-BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkiDQSSLtIJJRkUgUIJJRaEIiQKSLkEUQC
-```
-
-[Dark Ascension](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFQVFUaRUgkBBR>)
-```
-BIQAAAAAAAAAAAAAAAAAAAAAAASkEAAAAAAAAAAAAgQaQSSJtDIJJRSSBShkkEpRgICpItQSQBSA
+CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAAGmFPAzMz2sNmZmZMmZBegNmZmZMbMwYMjZxsN1MDWwMAAEAQAA
 ```
 
-These builds are very close together, with Void Eruption doing slightly better with general movement encounters and Dark Ascension doing slightly better when you are able to turret. Pick the one you prefer and enjoy Season 4!
+[Dark Ascension](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFQVFUaRUgkBBRAA>)
+```
+CIQAAAAAAAAAAAAAAAAAAAAAAAmxMDAAAAAAAAAAAAwwsBzMzys9AmZmZMzMLwswMzMjZjBGjhZxsN1MDWgZAAEAQAA
+```
+
 ## Single Target + :sc: [Shadow Crash](<https://www.wowhead.com/spell=205385>)
----------------------------ST + CRASH IMAGE HERE---------------------------
 These builds maximize single target damage while still having :sc: [Shadow Crash](<https://www.wowhead.com/spell=205385>) and :sc: [Whispering Shadows](<https://www.wowhead.com/spell=406777>).
 
 Taking these builds you lose about **3%** single target damage on average.
 
-[Dark Ascension](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUVVEKRUgkBBR>)
+[Dark Ascension](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUVVEKRUgkBCUQAA>)
 ```
-BIQAAAAAAAAAAAAAAAAAAAAAAASSSAAAAAAAAAAAAACaQSSJNSSSSSSBShkkEpRgICpItQSQBSA
-```
-
-[Void Eruption](<https://www.wowhead.com/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUUVQKUUCkFBU>)
-```
-BIQAAAAAAAAAAAAAAAAAAAAAAggkEAAAAAAAAAAAAgQKBJJt0IJJJRSBShkkEpRgICpItQSQBJA
+CIQAAAAAAAAAAAAAAAAAAAAAAAmZmZAAAAAAAAAAAAAGsBzMzysxMzMz2MzsAzCzMzMmNGYMGmFz2UzMYBmBAQAABA
 ```
 
-Dark Ascension will generally outperform Void Eruption anytime you _need_ to pickup Shadow Crash. These are still close enough you can run Void Eruption if you really want though.
+[Void Eruption](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUUVQKUUCkFCVAAA>)
+```
+CIQAAAAAAAAAAAAAAAAAAAAAAgBzMDAAAAAAAAAAAAwwsMYmZ2mNmZmZ2GzsAzCzMzMmNGYMGmFz2UzMYBzAAQAABA
+```
 
 # Council Multi-Target
----------------------------Council IMAGE HERE---------------------------
 This build is designed to work with multi-target sustained Council-type bosses in raids. It is a version of what we also run in Mythic+, with slight variations for sustained damage patterns.
 
-[VF_nzoth_yogg_59604915181487_Spike_DR](<https://www.wowhead.com/talent-calc/priest/shadow/DAREFAVFEERUFEKFRKBQCBUNVFFUUVQKQUKEVBV>)
+[VF_nzoth_yogg_59604915181487_Spike_DR](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVFFUUVQKQUKEVCVQAA>)
 ```
-BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaCJJt0IJJJRSBOQjkkEpRgISki0CJBFkA
+CIQAAAAAAAAAAAAAAAAAAAAAAMMYMDAAAAAAAAAAAAwwsZYmZ2mNmZmZ2GzsAzGzMzMmNGYMGmFz2UzMYBzAAQAABA
 ```
 
 # Dungeons
@@ -60,31 +54,16 @@ These builds use flex points. The following can be swapped around and are within
 
 By default the builds below assume you need Mental Fortitude (defensive) and Silence (utility). If you do not need both of these you can drop one for more throughput by adding back a flex point (usually Mental Decay or Mind Devourer).
 
----------------------------BREAKDOWN IMAGE HERE---------------------------
 ## Triple Idol Build
----------------------------Triple Idol BUILD IMAGE HERE---------------------------
-This build will be your goto build for Season 4. It particularly does well once you get your new tier set bonus for the season. I would start off running Mind's Eye for the increased priority target damage and simpler playstyle, but if you want more overall damage by spreading Devouring Plague try to the Distorted Reality version.
-
-[Triple Idol - Mind's Eye](<https://www.wowhead.com/talent-calc/priest/shadow/DAREFAVFEERUFEKFRKBQCBUNVVFUQVQKQUKEVBU>)
+[Triple Idol - Mind's Eye](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREFAVFEERUFEKFRKBQCBUNVVFUQVQKQUKEVCVAAA>)
 ```
-BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQKSkk00IJJJRSBOQjkkEpRgISki0CJBFkA
-```
-
-[Triple Idol - Distorted Reality](<https://www.wowhead.com/talent-calc/priest/shadow/DAREFAVFEERUFEKFRKBQCBUNVVFUQVQKQUKEVBV>)
-```
-BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkk00IJJJRSBOQjkkEpRgISki0CJBFkA
+CIQAAAAAAAAAAAAAAAAAAAAAAMMYMDAAAAAAAAAAAAwwsYGzMzmNmZmZ2GzsAPwGzMzMmNGYMmxsY2mamBLYGAACAIAA
 ```
 
 ## :nzoth1: [N'Zoth](<https://www.wowhead.com/spell=373280>) + :cthun: [C'Thun](<https://www.wowhead.com/spell=377349>) Build
----------------------------DA YSHAARJ DUNGEON IMAGE HERE---------------------------
 This build is particularly strong in lower key environments where you might just be pulling one pack at a time. If you are just starting out with the spec, or do not have the Season 4 set bonus I would suggest starting with this build.
 
-[N'Zoth + C'Thun - Distorted Reality](<https://www.wowhead.com/talent-calc/priest/shadow/DAREFAVFEERUFEKFRKBQCBUNVVFUVVECUVggRBR>)
+[N'Zoth + C'Thun - Mind's Eye](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREFAVFEERUFEKFRKBQCBUNVVFUVVECUVggRCUQAA>)
 ```
-BIQAAAAAAAAAAAAAAAAAAAAAAEISEAAAAAAAAAAAAgEaRkIl0IJJJJJF4ANSSSkGBiIRKSLkEUgE
-```
-
-[N'Zoth + C'Thun - Mind's Eye](<https://www.wowhead.com/talent-calc/priest/shadow/DAREFAVFEERUFEKFRKBQCBUNVVFUVVECUVggRBQ>)
-```
-BIQAAAAAAAAAAAAAAAAAAAAAAEISEAAAAAAAAAAAAgEKRkIl0IJJJJJF4ANSSSkGBiIRKSLkEUgE
+CIQAAAAAAAAAAAAAAAAAAAAAAMwYGDAAAAAAAAAAAAwMsNGzYWmNmZmZ2mZmF4B2YmZmxsxAjxMmFz2UzMYBmBAQAABA
 ```

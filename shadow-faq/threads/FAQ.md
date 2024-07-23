@@ -15,11 +15,27 @@
 - [DP Version for DR](<https://wago.io/fVWquGeBQ>)
 
 ## Looking for the list of bugs?
-- <https://bit.ly/3N6p5X4>
+- <https://github.com/SimCMinMax/WoW-BugTracker/issues?q=is%3Aopen+is%3Aissue+label%3APriest+>
 
 ## Looking for Feedback Posts?
-- [Dragonflight Feedback](<https://us.forums.blizzard.com/en/wow/t/shadow-priest-dragonflight-feedback/1819255>)
-- [The War Within Alpha Feedback 1](<https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver/>) - [Forum Post](<https://us.forums.blizzard.com/en/wow/t/feedback-priest-updates/1833178/2>)
+- [Bugs, round 3](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/476>)
+- [Shadow Crash](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/304>)
+- [New Class Talents](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/91>)
+- [PvE Gameplay](https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/108)
+- [Entropic Rift](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/211>)
+- [Bugs, round 2](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/234>)
+- [Bugs, round 1](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/125>)
+- [Voidweaver Initial Thoughts](<https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver>)
+- [Archon Initial Thoughts](<https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-archon>)
+
+## When do we get access to Hero Talents?
+Starting at level 71 when the expansion for The War Within launches.
+
+## What changed for Shadow Priests in The War Within?
+Check out the [IcyVeins Guide](<https://www.icy-veins.com/wow/shadow-priest-the-war-within-pve-guide>) for a full breakdown of the changes.
+
+## Early Beta Information
+All current info for playing on the beta can be found [here](https://gist.github.com/seanpeters86/e5430e24ff0bc56e0d2821769e11daf1).
 
 ## Shadow Word: Podcast
 - :youtube: [YouTube](<https://www.youtube.com/playlist?list=PLxX8_7Ewk0bASf44ESDyDbm33Dos5sm1X>)

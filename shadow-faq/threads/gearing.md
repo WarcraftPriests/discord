@@ -9,13 +9,16 @@
 5. [Whispering Incarnate Icon](<https://www.wowhead.com/item=194301>) (At least a Tank or Healer)
 6. [Spoils of Neltharus](<https://www.wowhead.com/item=193773>)
 
+**Note**: [Vessel of Searing Shadows](<https://www.wowhead.com/item=202615>) is extremely strong/bis contention when you get the Eranog ring since it significantly helps proc it.
+
 ## Dungeons
 1. [Tome of Unstable Power](<https://www.wowhead.com/item=212685>)
-2. [Neltharion's Call to Suffering](<https://www.wowhead.com/item=204211>)
-3. [Ominous Chromatic Essence](<https://www.wowhead.com/item=203729>) (All Allies)
-4. [Whispering Incarnate Icon](<https://www.wowhead.com/item=194301>) (Any combination)
-5. [Spoils of Neltharus](<https://www.wowhead.com/item=193773>)
-6. [Ashes of the Embersoul](<https://www.wowhead.com/item=207167>)
+2. [Spoils of Neltharus](<https://www.wowhead.com/item=193773>)
+3. [Ashes of the Embersoul](<https://www.wowhead.com/item=207167>)
+4.  [Umbrelskul's Fractured Heart](<https://www.wowhead.com/item=212684>) 
+5. [Neltharion's Call to Suffering](<https://www.wowhead.com/item=204211>)
+6. [Ominous Chromatic Essence](<https://www.wowhead.com/item=203729>) (All Allies)
+7. [Whispering Incarnate Icon](<https://www.wowhead.com/item=194301>) (Any combination)
 
 *Note:* Umbrelskul's can also be pretty great in Mythic+ depending on procs.
 
@@ -25,7 +28,7 @@ You can generally use _any_ of the buffs for this trinket, especially if it mean
 # Crafted Gear (Embellishments)
 All embellishes are in SimC. The below are roughly ranked in order of power.
 
-Note that are roughly equivalent to 60-70% BSL uptime, these are basically a progression only item. In Season 4 you might not run into this level of difficulty in which case I would skip it.
+Note that wristguards are roughly equivalent to 60-70% BSL uptime, these are basically a progression only item. In Season 4 you might not run into this level of difficulty in which case I would skip it.
 
 ## Raid
 1. :wristguards: [Allied Wristguards of Time Dilation](<https://www.wowhead.com/item=193530>) (Progression ONLY)
