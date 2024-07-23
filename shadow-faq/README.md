@@ -26,3 +26,6 @@ All bugs can be found [here](<https://github.com/SimCMinMax/WoW-BugTracker/issue
 - [Idol of C'Thun is completely broken](<https://github.com/SimCMinMax/WoW-BugTracker/issues/1218>) - Hopefully this is fixed soon but until then there is no point in talenting this.
 - [Halo is pulling mobs that are not currently in combat](<https://github.com/SimCMinMax/WoW-BugTracker/issues/1217>)
 - [Mind Vision](<https://github.com/SimCMinMax/WoW-BugTracker/issues/1198>) and [Mind Soothe](<https://github.com/SimCMinMax/WoW-BugTracker/issues/1197>) are not castable
+
+## Changelog
+- **7/23/2024**: Update all threads for The War Within Pre-Patch.
