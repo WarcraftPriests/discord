@@ -21,7 +21,7 @@
 - [Bugs, round 3](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/476>)
 - [Shadow Crash](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/304>)
 - [New Class Talents](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/91>)
-- [PvE Gameplay](https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/108)
+- [PvE Gameplay](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/108>)
 - [Entropic Rift](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/211>)
 - [Bugs, round 2](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/234>)
 - [Bugs, round 1](<https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/125>)
