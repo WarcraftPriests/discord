@@ -1,34 +1,30 @@
 # Prep Guides
 ## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gems-enchants-consumables>)
 
-Note that for builds using :void_eruption: [Void Eruption](<https://www.wowhead.com/spell=228260>) you could consider stacking even more haste, up to about 42%.
-
 # Consumables
-- Flask: :corrupting_rage: [Iced Phial of Corrupting Rage](<https://www.wowhead.com/item=191329>) (if 70% uptime or lower run :tepid_vers: [Phial of Tepid Versatility](<https://www.wowhead.com/item=191341>))
-- Potion: :potion: [Elemental Potion of Ultimate Power](<https://www.wowhead.com/item=191383>)
-- Food: Most of the secondary stat foods are better than :feast: [Grand Banquet of the Kalu'ak](<https://www.wowhead.com/item=197794>)/:fortune: [Fortune Cookie](<https://www.wowhead.com/item=62649>)/etc. Sim this to check to be sure.
-  - Below both DR thresholds for Haste/Mastery: :seafood: [Sizzling Seafood Medley](<https://www.wowhead.com/item=197784>)
-  - Above Haste DR threshold only: :thousandbone: [Thousandbone Tongueslicer](<https://www.wowhead.com/item=197786>) or :cerulean: [Great Cerulean Sea](<https://www.wowhead.com/item=197787>)
-  - Above Mastery DR threshold only: :fishsticks: [Feisty Fish Sticks](<https://www.wowhead.com/item=197782>) or :platter: [Aromatic Seafood Platter](<https://www.wowhead.com/item=197783>)
-  - Above both DR thresholds: :revenge: [Revenge, Served Cold](<https://www.wowhead.com/item=197785>)
+- Flask: [Flask of Alchemical Chaos](<https://www.wowhead.com/item=212283>)
+- Potion: [Tempered Potion](<https://www.wowhead.com/item=212265>)
+- Food: Currently all of these are very insignificant and close together. Using almost anything is going to be optimal.
+  - Feast: [Feast of the Midnight Masquerade](<https://www.wowhead.com/item=222733>)
+  - Normal: [Chippy Tea](<https://www.wowhead.com/item=222736>) (at some gear levels this might even be better than Feast)
 ## Enchants
-- Head: :incandescent: [Incandescent Essence](<https://www.wowhead.com/item=210494>)
-- Weapon: :enchant: [Wafting Devotion](<https://www.wowhead.com/item=200058>)
-- Rune Priority: 
-  - Below both DR thresholds: :howling: [Howling Rune](<https://www.wowhead.com/item=194820>)
-  - Above Haste DR threshold only: :hissing: [Hissing Rune](<https://www.wowhead.com/item=204973>)
-  - Above Mastery DR threshold only: :howling: [Howling Rune](<https://www.wowhead.com/item=194820>)
-  - Above both DR thresholds: :buzzing: [Buzzing Rune](<https://www.wowhead.com/item=194823>)
-- Legs: :lambent: [Lambent Armor Kit](<https://www.wowhead.com/item=204702>)
-- Chest: :enchant: [Waking Stats](<https://www.wowhead.com/item=200030>)
+- Weapon: :enchant: [Authority of the Depths](<https://www.wowhead.com/item=223784>)
+- Weapon Oil: [Algari Mana Oil](<https://www.wowhead.com/item=224107>)
+- Legs: [Sunset Spellthread](<https://www.wowhead.com/item=222893>)
+- Chest: :enchant: [Crystalline Radiance](<https://www.wowhead.com/item=223692>)
 - Ring Enchant Priority:
-  - **Below 35-42% haste?** Use Haste Enchants.
-  - **Below 19-20% mastery?** Use Mastery Enchants.
-  - **At or above both thresholds?** Consider using Critical Strike or Versatility Enchants.
+  - **Below 15% haste?** :enchant: [Radiant Haste](<https://www.wowhead.com/item=223674>)
+  - **At or above 15% haste?** :enchant: [Radiant Mastery](<https://www.wowhead.com/item=223677>)
 ## Gems
-- Illimited: Resplendent or Inscribed once you hit the first DR of Haste and Mastery. Otherwise use Fierce or Skillful.
-- Other:
-  - Below both DR thresholds: [Keen Ysemerald](<https://www.wowhead.com/item=192948>) or [Keen Neltharite](<https://www.wowhead.com/item=192961>)
-  - Above Haste DR threshold ony: [Sensei's Neltharite](<https://www.wowhead.com/item=192958>) or [Zen Neltharite](<https://www.wowhead.com/item=192964>)
-  - Above Mastery DR threshold only: [Crafty Ysemerald](<https://www.wowhead.com/item=192945>) or [Energized Ysemerald](<https://www.wowhead.com/item=192952>)
-  - Above both DR thresholds: [Radiant Alexstraszite](<https://www.wowhead.com/item=192925>) or :radiant_malygite: [Radiant Malygite](<https://www.wowhead.com/item=192932>)
+For the War Within you want to use [Culminating Blasphemite](<https://www.wowhead.com/item=213743>) as your epic gem. To scale this gem we want to use one of every color
+gem _except_ for Amber. Use the below list as a rough order to socket into your gear.
+1. [Culminating Blasphemite](<https://www.wowhead.com/item=213743>)
+2. [Masterful Emerald](<https://www.wowhead.com/item=213482>)
+3. [Quick Onyx](<https://www.wowhead.com/item=213494>)
+4. [Masterful Ruby](<https://www.wowhead.com/item=213458>)
+5. [Masterful Sapphire](<https://www.wowhead.com/item=213473>)
+6. [Masterful Emerald](<https://www.wowhead.com/item=213482>) on remaining 4 sockets
+
+For the final 4 sockets, you should pick either [Masterful Emerald](<https://www.wowhead.com/item=213482>) if you are lacking on Haste, or [Quick Onyx](<https://www.wowhead.com/item=213494>) if you have a decent amount. Usually, early on in the gearing process, you will lean towards Haste, and towards the end, you will stack more Mastery. On single target, you will typically notice Mastery being more valuable and on AoE Haste being more valuable.
+
+Note that gems this expansion are considerably less DPS than they have been in previous expansions. This will mean simming massive gem re-combinations on Raidbots will be very difficult to get accurate information out of without absolutely cranking iterations. I strongly suggest just following this advice and not putting too much weight in gem recraft sims.

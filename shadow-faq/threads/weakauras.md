@@ -3,8 +3,7 @@
 - [Jaerv's UI + WA's](<https://pastebin.com/u/jaerv>)
 - [Publik's WA's for every Spec](<https://wago.io/search/Type:+Collection+user:+publik>)
 - [Simple Void Eruption + Void Bolt Aura](<https://wago.io/3UtaqccQs>)
-- [Season 4 Set Bonus Tracker](<https://wago.io/ww8949l2N>)
-- [Umbrelskul's Fractured Heart Details Integration](<https://wago.io/lXT9wfXYl>)
+- [Surge of Insanity in X DP Casts tracker](<https://wago.io/UTVnwatRd>)
 - Count of enemies that have Vampiric Touch active
   - [Basic Version](<https://wago.io/648-HcoQM>)
   - [Compares to Total Nameplates](<https://wago.io/F10ZtLaxA>) **WARNING:** Can be resource intensive. Use at your own risk.

@@ -1,69 +1,94 @@
 # Talent Guides
 ## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-spec-builds-talents>) :wowhead: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/talent-builds-pve-dps>)
 
-**Pre-Patch is going to be a bit unstable so take these builds with a grain of salt. We are focused on TWW resources and guides as our first priority.**
+These builds are made with the Season 1 set bonus in mind. If you do not have the set bonus yet you can consider using :dr: [Distorted Reality](<https://www.wowhead.com/spell=409044>) until you get the 2-set bonus for any builds that do not already use it.
+
+# Leveling
+For these builds be sure to check out the [guide](<https://www.icy-veins.com/wow/shadow-priest-leveling-guide>) directly for exact talent pathing suggestions as you level!
+
+[Archon](<https://www.icy-veins.com/wow/shadow-priest-leveling-guide>)
+```
+CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGzsYGzw2sNzMzMz2YmlBzGzMzMmNmFMYGziZbqZGAGAzsYZY2MAkxYB
+```
+
+[Voidweaver](<https://www.icy-veins.com/wow/shadow-priest-leveling-guide?area=area_2>)
+```
+CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGzsYGzMWmtZmZGz2YmlBzGzMzMmNmFMYGziZbqZGAGzMAQAmtZZDMbsB
+```
 
 # Single Target
-[Void Eruption](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREFAVFEERUFEKFRKBQCBUNVFFQUFQqQUGkFBUAA>)
+[Archon](<https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVFFQUFQqRUkkBBUEFVVUBR>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAAGmFPAzMz2sNmZmZMmZBegNmZmZMbMwYMjZxsN1MDWwMAAEAQAA
+CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPAzMz2sNmZmZMzMLDmNmZmZMbMwYMMLmtpmZwCMAmZzyoZzAQGjFA
 ```
 
-[Dark Ascension](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFQVFUaRUgkBBRAA>)
+[Voidweaver](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVFFQUFSiUFglBBREFVVUCRA>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAAmxMDAAAAAAAAAAAAwwsBzMzys9AmZmZMzMLwswMzMjZjBGjhZxsN1MDWgZAAEAQAA
+CIQAAAAAAAAAAAAAAAAAAAAAAYAGDAAAAAAAAAAAAwMzsNYmZWmtxMzYMzMLDmNmZmZMbMwYMMLmtpmZwCMmZAgAMbzyCY2YD
 ```
+
+Archon is roughly 2-3% ahead of Voidweaver for this build.
 
 ## Single Target + :sc: [Shadow Crash](<https://www.wowhead.com/spell=205385>)
 These builds maximize single target damage while still having :sc: [Shadow Crash](<https://www.wowhead.com/spell=205385>) and :sc: [Whispering Shadows](<https://www.wowhead.com/spell=406777>).
 
-Taking these builds you lose about **3%** single target damage on average.
+Taking these builds you lose about **2%** single target damage on average.
 
-[Dark Ascension](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUVVEKRUgkBCUQAA>)
+[Archon](<https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVFFUUVQmUUgkBCVAEFVVUBR>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAAmZmZAAAAAAAAAAAAAGsBzMzysxMzMz2MzsAzCzMzMmNGYMGmFz2UzMYBmBAQAABA
-```
-
-[Void Eruption](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBQNVFFUUVQKUUCkFCVAAA>)
-```
-CIQAAAAAAAAAAAAAAAAAAAAAAgBzMDAAAAAAAAAAAAwwsMYmZ2mNmZmZ2GzsAzCzMzMmNGYMGmFz2UzMYBzAAQAABA
+CIQAAAAAAAAAAAAAAAAAAAAAAAYmHYAAAAAAAAAAAAAGmlBzMz2sNmZmZ2mZmlBzGzMzMmNGYMGmFz2UzMYBGAzsZZ0sZAIjxCA
 ```
 
-# Council Multi-Target
-This build is designed to work with multi-target sustained Council-type bosses in raids. It is a version of what we also run in Mythic+, with slight variations for sustained damage patterns.
+[Voidwewaver](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFUUVQoUFglBBREFVVUCRA>)
+```
+CIQAAAAAAAAAAAAAAAAAAAAAAYAzMAAAAAAAAAAAAAmxsNGzMzyYMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZbWWAzGb
+```
 
-[VF_nzoth_yogg_59604915181487_Spike_DR](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREEAVFEERUFEKFSKBQCBUNVFFUUVQKQUKEVCVQAA>)
-```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMYMDAAAAAAAAAAAAwwsZYmZ2mNmZmZ2GzsAzGzMzMmNGYMGmFz2UzMYBzAAQAABA
-```
+Archon is roughly 2-3% ahead of Voidweaver for this build.
 
 # Dungeons
 The below section is a high level overview of the top builds for dungeons. For more detail and other builds check out the :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-mythic-plus-tips>) guide.
 
 In addition to the builds below you can also consider running the Single Target + :sc: [Shadow Crash](<https://www.wowhead.com/spell=205385>) build from the raid section above if you are trying to maximize Single Target damage.
 
-These builds use flex points. The following can be swapped around and are within 1% damage of each other. These are roughly listed in order of strength.
-- :mind_dev: [Mind Devourer](<https://www.wowhead.com/spell=373202>) (Overall)
-- :vt: [Maddening Touch](<https://www.wowhead.com/spell=391228>) (AoE, particularly good with :dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) builds)
-- :dark_evang: [Dark Evangelism](<https://www.wowhead.com/spell=391095>) (AoE)
-- :mental_decay: [Mental Decay](<https://www.wowhead.com/spell=375994>) (Single Target)
-- :phantasmal: [Phantasmal Pathogen](<https://www.wowhead.com/spell=407469>) (Single Target with Mind's Eye and also AoE with Distorted Reality)
-- :voidtouched: [Voidtouched](<https://www.wowhead.com/spell=407430>) (Burst/:mf: [Mind Flay](<https://www.wowhead.com/spell=15407>))
+:dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) will give you more single-target priority target damage while in AoE, and :dr: [Distorted Reality](<https://www.wowhead.com/spell=409044>) can get you more spread-target
+damage. With Season 1's set bonus we prefer to use :dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) and prio focus a single target.
 
-:dp: [Mind's Eye](<https://www.wowhead.com/spell=407470>) will give you more single-target priority target damage while in AoE, and :dr: [Distorted Reality](<https://www.wowhead.com/spell=409044>) will be stronger overall, or in multi-target priority setups. Feel free to choose whichever you prefer.
+By default the builds below assume you need Mental Fortitude (defensive) and Silence (utility). If you do not need both of these you can drop one for more throughput by adding back a damage point.
+- Archon Push Key, Voidweaver Standard: :vt: [Maddening Touch](<https://www.wowhead.com/spell=391228>)
+- Archon Standard Key, Archon ST + Crash: :mind_dev: [Mind Devourer](<https://www.wowhead.com/spell=373202>)
 
-By default the builds below assume you need Mental Fortitude (defensive) and Silence (utility). If you do not need both of these you can drop one for more throughput by adding back a flex point (usually Mental Decay or Mind Devourer).
+## Single Target Rankings
+1. Archon Full Single Target: `0.0%`
+2. Voidweaver Full Single Target: `-2%`
+3. Archon Single Target + Shadow Crash: `-4%`
+4. Voidweaver Standard Key Build: `-9%`
+5. Archon Standard Key Build: `-10%`
+6. Archon Push Key Build: `-13%`
 
-## Triple Idol Build
-[Triple Idol - Mind's Eye](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREFAVFEERUFEKFRKBQCBUNVVFUQVQKQUKEVCVAAA>)
+## Archon - Standard Keys
+Good for starting out, particularly if you want to get the build feeling of closer to the High Key build.
+
+[N'Zoth + C'Thun - Void Eruption](<https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVVFUUVQkREogRCVAEFVVUBQ>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMYMDAAAAAAAAAAAAwwsYGzMzmNmZmZ2GzsAPwGzMzMmNGYMmxsY2mamBLYGAACAIAA
+CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwwsYGzY2mtxMzY2mZmlBzGzMzMmNGYMGmFz2UzMYBGAzsYZ0sZAIjxCA
 ```
 
-## :nzoth1: [N'Zoth](<https://www.wowhead.com/spell=373280>) + :cthun: [C'Thun](<https://www.wowhead.com/spell=377349>) Build
-This build is particularly strong in lower key environments where you might just be pulling one pack at a time. If you are just starting out with the spec, or do not have the Season 4 set bonus I would suggest starting with this build.
+## Voidweaver - Standard Keys
+Only a suggested build for lower keys where you might be pulling one pack at a time or packs are living for 20-30s max.
 
-[N'Zoth + C'Thun - Mind's Eye](<https://www.wowhead.com/beta/talent-calc/priest/shadow/DAREFAVFEERUFEKFRKBQCBUNVVFUVVECUVggRCUQAA>)
+[N'Zoth + C'Thun - Dark Ascension](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVVFUUVRgREkkRCUAEFVVUCQA>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMwYGDAAAAAAAAAAAAwMsNGzYWmNmZmZ2mZmF4B2YmZmxsxAjxMmFz2UzMYBmBAQAABA
+CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGPws4BGzMzysNmZGz2MzsMY2YmZmxsxAjxwsY2mamBLwYmBACwsNLLBzGL
+```
+- Can swap out Depth of Shadows for Voidwraith for more single target.
+- If you are in a dungeon with lots of magic damage (particularly Shadow) I would use Embrace the Shadow over Void Leech.
+- If you are looking for more mob control you can experiment with using No Escape instead of Dark Energy. This might make the tanks job harder in some cases so be sure to coordinate with your group on what is best for that key.
+
+## Archon - Push Keys
+Once you start getting into the range where you are chain pulling packs together or packs are generally living 60s+ this is the build to start with if you can muster the single target loss.
+
+[Triple Idol - Void Eruption](<https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVVFUUVRgQUKEVCVAEFVVUBQ>)
+```
+CIQAAAAAAAAAAAAAAAAAAAAAAMMYAAAAAAAAAAAAAw4BmFzYmZ2mtxMzMz2YmlBzGzMzMmNGYMGmFz2UzMYBzAYmFLDzmBgMGLA
 ```

@@ -1,5 +1,41 @@
 # Emoji Shortcodes
 
+## TODO
+- Archon
+- Voidweaver
+- potion -> tempered potion
+- feast -> feast of hte midnight masquerade
+- mental fortitude
+- silence
+- depth of shadows
+- voidwraith
+- embrbace the shadow
+- void leech
+- dark energy
+- no escape
+- flask of alchemical chaos
+- chippy tea
+- algari mana oil
+- sunset spellthread
+- culminating blasphemite
+- masterful emerald
+- quick onyx
+- masterful ruby
+- masterful sapphire
+- masterful emerald
+- spymasters web
+- ara kara sacbrood
+- gale of shadows
+- unbound changeling
+- empowering crystal of anubikkaj
+- treacherous transmitter
+- binding of binding
+- duskthread lining
+- dawnthread lining
+- everforged dagger
+- blessed weapon grip
+- pail of preserved obscurity
+
 ## Shadow Priest
 :am: [Ancient Madness](<https://www.wowhead.com/spell=341240>)
 :spirits: [Auspicious Spirits](<https://www.wowhead.com/spell=155271>)
