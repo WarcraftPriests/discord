@@ -23,21 +23,37 @@ Gear and items are constantly tweaking on Blizzards end. We will keep this updat
 prefer setting ths to Mastery (Single Target) or Haste (Mythic+).
 
 ## Timewalking Trinkets
-Currently there are several timewalking trinkets from Timewalking Raids that are performing well. When these raids show up I would consider checking out the value of these trinkets.
+Currently there are several trinkets from Timewalking Raids that are performing well. When these raids show up I would consider checking out the value of these trinkets.
 
 # Crafted Gear (Embellishments)
-Embellishments in Season 1 are extremely underwhelming in value. They are also changing balancing and scaling of these relatively often still so until things are more concrete you should not plan on crafting anything until Mythic opening week at the earliest while we let Blizzard settle down and balancing is more stable.
+Embellishments in Season 1 are more underwhelming than they were in Dragonflight. While the below information is currently up to date it is still possible that Blizzard adjusts the balancing or fixes bugs with some of these embellishments. As such until things are more stable use extreme caution before using your Spark of Omens. At this moment we suggest holding off using these sparks until after you clear Heroic Raid.
 
-Here is what things look like currently.
+## Raiding Path
+This section is focused on the best crafts in a Raiding environment. These rankings tend to prefer more consistent effects that specialize in single-target damage.
 
-1. Craft [Binding of Binding](<https://www.wowhead.com/item=215133>) if you can pair with an ally to give each other the benefit. This does not give you any personal DPS without someone else pairing with you. If you are not in a situation where you are able to trade with someone, you should consider using something else.
-2. Craft an item with [Duskthread Lining](<https://www.wowhead.com/item=222873>). Ideally, in the Wrists, Feet, or Waist slot, depending on which is worse.
-3. Craft your second item with [Duskthread Lining](<https://www.wowhead.com/item=222873>). Ideally, in the Wrists, Feet, or Waist slot, depending on which is worse. This should be used anytime that you cannot trade [Binding of Binding](<https://www.wowhead.com/item=215133>) with someone.
+1. Craft [Vagabond's Bounding Baton](<https://www.wowhead.com/item=222568>) with [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>). This weapon will not be the Best-in-Slot but it will be the biggest gain you can get early on in the Season. If you already have a strong Hero track or Myth track 1-handed weapon, you can skip this step and instead craft it on [Vagabond's Torch](<https://www.wowhead.com/item=222566>).
+2. Craft an item with [Writhing Armor Banding](<https://www.wowhead.com/item=219506>). This effectively doubles [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>) without having to craft it on another weapon. You should craft this in your worst slot for the biggest upgrade, long term, this is ideally on Wrists, Feet, or Waist slot.
+3. Craft [Vagabond's Torch](<https://www.wowhead.com/item=222566>) with [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>) to replace your [Vagabond's Bounding Baton](<https://www.wowhead.com/item=222568>). This should only be done once you get a good Myth track 1-handed weapon.
 4. After you have your Embellished items, you should prioritize crafting items to gain the most item level.
 
-[Duskthread Lining](<https://www.wowhead.com/item=222873>) and [Dawnthread Lining](<https://www.wowhead.com/item=222870>) are so close in value we suggest going with [Duskthread Lining](<https://www.wowhead.com/item=222873>) for the small extra defensive benefit.
+Note: You can also choose to use [Duskthread Lining](<https://www.wowhead.com/item=222873>) or [Dawnthread Lining](<https://www.wowhead.com/item=222870>) if you do not want to double down with [Writhing Armor Banding](<https://www.wowhead.com/item=219506>). These options usually are less damage, but depending on the situation, they might be better for you. Duskthread is usually preferred for the small extra defensive benefit but Dawnthread will typically sim a bit more.
 
-If you are looking for the biggest upgrade early on you can consider crafting [Everforged Dagger](<https://www.wowhead.com/item=222439>) with [Blessed Weapon Grip](<https://www.wowhead.com/item=219497>). You will eventually replace this with a Myth track weapon but might be a nice upgrade early depending on your current weapon. You will be hard pressed to find a good off-hand as there is only one great one this season with [Pail of Preserved Obscurity](<https://www.wowhead.com/item=221172>).
+## Mythic+ Path
+This section is focused on the best crafts in a Mythic+ environment. These rankings are aimed at maximizing overall damage inside of Mythic+.
+
+1. Craft [Vagabond's Bounding Baton](<https://www.wowhead.com/item=222568>) with [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>). This weapon will not be the Best-in-Slot but it will be the biggest gain you can get early on in the Season. If you already have a strong Hero track or Myth track 1-handed weapon, you can skip this step.
+2. Craft an item with [Duskthread Lining](<https://www.wowhead.com/item=222873>) or [Dawnthread Lining](<https://www.wowhead.com/item=222870>). Dawnthread is usually slightly more damage but Duskthread also provides a small defensive benefit which is why it is preferred. You should craft this in your worst slot for the biggest upgrade, long term, this is ideally on Wrists, Feet, or Waist slot.
+3. Pick one of the options below:
+- OPTION: Craft [Vagabond's Torch](<https://www.wowhead.com/item=222566>) with [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>) to replace your [Vagabond's Bounding Baton](<https://www.wowhead.com/item=222568>). This should only be done once you get a good Myth track 1-handed weapon.
+- OPTION: If you find yourself dropping combat too often to get good value out of [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>) you can instead craft another item with [Duskthread Lining](<https://www.wowhead.com/item=222873>) or [Dawnthread Lining](<https://www.wowhead.com/item=222870>).
+4. After you have your Embellished items, you should prioritize crafting items to gain the most item level.
+
+For Mythic+ you will notice [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>) generally performing worse than other options if you have lots of downtime between pulls. While we suggest crafting this early to get our weapon item level, this is something you can consider phasing out of your gear entirely, depending on your typical pulls.
+
+## Notes on Crafting
+You might see some people choose to use [Binding of Binding](<https://www.wowhead.com/item=215133>). This item can perform similarly to [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>) but requires quite a lot of setup to get an increase out of since using it just by yourself does not provide any personal DPS benefit.
+
+For more detail check out the [IcyVeins Guide](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot#crafted-profession-gear>).
 
 # Tier Set (S1) Value
 
@@ -62,6 +78,8 @@ Haste > Mastery > Critical Strike >= Versatility
 ```
 
 Note that the following are simply examples. You should sim your character for individual gear swaps, these are just a range to look for.
+
+These stat goals are for relevant stats around top end item level. While gearing up you will need to keep Haste/Master more equal instead of sacrificing everything for this first goal until you have more stats to work with.
 
 Stat Goals:
 1. Gear up your character, prioritizing getting as much Haste and Mastery as possible. Acquiring Intellect is your top priority.
