@@ -1,9 +1,23 @@
 # Gearing Guides
 ## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot>) :wowhead~1: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/bis-gear>)
+# Cyrce's Circlet
+This is the new ring from the [Siren Isle](<https://www.wowhead.com/guide/the-war-within/patch-11-0-7-cyrces-circlet-customizable-ring>). You get the ring at 639 and over the course of 6 weeks it is upgraded to level 658. You collect different types of gems to socket into the ring (Thunder, Sea, and Wind).
+
+As a Shadow Priest we always use the following gems in all PvE content:
+- :thunder_cloud_rain: Thunder: **Stormbringer's Runed Citrine**
+- :ocean: Sea: **Fathomdweller's Runed Citrine**
+- :LegacyWind: Wind: **Legendary Skippers Citrine**
+
+There are several bugs or oddities with the ring that might be hotfixed over the coming days, this information will likely be changing throughout the week. That being said it looks to be BiS in all content, even at 639. 
+
+One of the bugs is with Legendary Skippers Citrine not calculating Mastery correctly. For this reason it is normal to see the sim wanting higher Haste than Mastery.
+
+You will likely **NOT** run this alongside the Seal of the Poisoned Pact to make sure you have correct stats but some gearsets can make this work for a small gain.
+
 # Trinkets
 As a Shadow Priest you always want to use :spymasters: [Spymaster's Web](<https://www.wowhead.com/item=220202>). This trinket is a lock in choice for all content and is typically paired with a passive trinket.
 
-**Note**: For [Unbound Changeling](<https://www.wowhead.com/item=178708>) we generally
+**Note**: For :changeling: Unbound Changeling we generally
 prefer setting ths to Mastery (Single Target) or Haste (Mythic+).
 ## Raid
 :spymasters: [Spymaster's Web](<https://www.wowhead.com/item=220202>) should be used with any of:
@@ -52,7 +66,6 @@ For Mythic+ you will notice :ascension: [Darkmoon Sigil: Ascension](<https://www
 You might see some people choose to use :bob: [Binding of Binding](<https://www.wowhead.com/item=215133>). This item can perform similarly to :ascension: [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>) but requires quite a lot of setup to get an increase out of since using it just by yourself does not provide any personal DPS benefit.
 
 For more detail check out the [IcyVeins Guide](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot#crafted-profession-gear>).
-
 # Tier Set (S1) Value
 
 ## Single Target

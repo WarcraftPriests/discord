@@ -25,14 +25,14 @@ CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPAzMz2sNmZmZMzMLDmNmZmZMbMwYMMLmtpm
 CIQAAAAAAAAAAAAAAAAAAAAAAAYmHYAAAAAAAAAAAAAGmlBzMz2sNmZmZ2mZmlBzGzMzMmNGYMGmFz2UzMYBGAzsZZY2MAkxYB
 ```
 ## Mythic+
-For these builds you can also use :sustained_potency: [Sustained Potency](<https://www.wowhead.com/spell=454001>) if you want even more sustain damage inside of cooldowns or more Single Target damage for bosses.
-### [Hybrid (More ST)](<https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVVFUUVQkRUkgRCVAEFVVUBQ>)
+By default these builds run :sustained_potency: [Sustained Potency](<https://www.wowhead.com/spell=454001>) for more single target, sustained AoE, and the out of combat pause mechanic for :voidform: [Voidform](<https://www.wowhead.com/spell=194249>). You can still run :energy_compression: [Energy Compression](<https://www.wowhead.com/spell=449874>) if you are strictly looking for more burst AoE potential.
+### [Hybrid (More ST)](<https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVVFUUVQkRUkgRCVAEFVVUBR>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwws4BGzY2mtxMzMz2MzsMY2YmZmxsxAjxwsY2mamBLwAYmFLjmNDAZMWA
+CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwws4BGzY2mtxMzMz2MzsMY2YmZmxsxAjxwsY2mamBLwAYmNLDzmBgMGLA
 ```
-### [Triple Idol (More AoE)](<https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVVFUUVQkQUKEVCVAEFVVUBQ>)
+### [Triple Idol (More AoE)](<https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVVFUUVQkQUKEVCVAEFVVUBR>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMY8AAAAAAAAAAAAAAGmFzYmZ2mtxMzMz2YmlBzGzMzMmNGYMGmFz2UzMYBzAYmFLjmNDAZMWA
+CIQAAAAAAAAAAAAAAAAAAAAAAMMY8AAAAAAAAAAAAAAGmFzYmZ2mtxMzMz2YmlBzGzMzMmNGYMGmFz2UzMYBzAYmNLDzmBgMGLA
 ```
 # Voidweaver
 ## [Single Target](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVFFRUFQpREokBBQEFVVUCQQ>)
