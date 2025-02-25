@@ -1,43 +1,33 @@
 # Gearing Guides
 ## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot>) :wowhead~1: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/bis-gear>)
 # Cyrce's Circlet
-This is the new ring from the [Siren Isle](<https://www.wowhead.com/guide/the-war-within/patch-11-0-7-cyrces-circlet-customizable-ring>). You get the ring at 639 and over the course of 6 weeks it is upgraded to level 658. You collect different types of gems to socket into the ring (Thunder, Sea, and Wind).
+This is the new ring from the [Siren Isle](<https://www.wowhead.com/guide/the-war-within/patch-11-0-7-cyrces-circlet-customizable-ring>). You get the ring at 639 and is upgraded to level 658. You collect different types of gems to socket into the ring (Thunder, Sea, and Wind). This ring is Best-In-Slot all throughout Season 2 assuming at least a few people are also using **Legendary Skippers Citrine**. If you are in a group where no one else is using that gem you can instead use **Windsinger's Runed Citrine**. Windsinger's will typically sim evenly with a 678 Myth track equivalent ring.
 
 As a Shadow Priest we always use the following gems in all PvE content:
 - :thunder_cloud_rain: Thunder: **Stormbringer's Runed Citrine**
 - :ocean: Sea: **Fathomdweller's Runed Citrine**
 - :LegacyWind: Wind: **Legendary Skippers Citrine**
-
-There are several bugs or oddities with the ring that might be hotfixed over the coming days, this information will likely be changing throughout the week. That being said it looks to be BiS in all content, even at 639. 
-
-One of the bugs is with Legendary Skippers Citrine not calculating Mastery correctly. For this reason it is normal to see the sim wanting higher Haste than Mastery.
-
-You will likely **NOT** run this alongside the Seal of the Poisoned Pact to make sure you have correct stats but some gearsets can make this work for a small gain.
-
 # Trinkets
-As a Shadow Priest you always want to use :spymasters: [Spymaster's Web](<https://www.wowhead.com/item=220202>). This trinket is a lock in choice for all content and is typically paired with a passive trinket.
-
-**Note**: For :changeling: Unbound Changeling we generally
-prefer setting ths to Mastery (Single Target) or Haste (Mythic+).
+This section lists the top trinkets to consider for Raiding and Mythic+. Oftentimes these are extremely close together and you can easily do well with any combination.
 ## Raid
-:spymasters: [Spymaster's Web](<https://www.wowhead.com/item=220202>) should be used with any of:
-- :sacbrood: [Ara-Kara Sacbrood](<https://www.wowhead.com/item=219314>)
-- :gale_of_shadows: [Gale of Shadows](<https://www.wowhead.com/item=133304>)
-- :changeling: [Unbound Changeling](<https://www.wowhead.com/item=178708>)
-- :crystal~2: [Empowering Crystal of Anubikkaj](<https://www.wowhead.com/item=219312>)
-- :ovinax: [Ovi'nax's Mercurial Egg](<https://www.wowhead.com/item=220305>) (Voidweaver only - ideal stacks 20 primary/10 secondary)
+- [Eye of Kezan](<https://www.wowhead.com/ptr-2/item=230198>) (Great for long prog fights)
+- [Mug's Moxie Jug](<https://www.wowhead.com/ptr-2/item=230192>)
+- [Signet of the Priory](<https://www.wowhead.com/item=219308>) (Better with more people using it)
 ## Dungeons
-:spymasters: [Spymaster's Web](<https://www.wowhead.com/item=220202>) should be used with any of:
-- :sacbrood: [Ara-Kara Sacbrood](<https://www.wowhead.com/item=219314>)
-- :gale_of_shadows: [Gale of Shadows](<https://www.wowhead.com/item=133304>)
-- :changeling: [Unbound Changeling](<https://www.wowhead.com/item=178708>)
-- :crystal~2: [Empowering Crystal of Anubikkaj](<https://www.wowhead.com/item=219312>)
-- :spellforge: [Aberrant Spellforge](<https://www.wowhead.com/item=212451>) (If you can keep stacks up throughout the dungeon)
+- [Eye of Kezan](<https://www.wowhead.com/ptr-2/item=230198>) (If you can keep stacks up)
+- [Mug's Moxie Jug](<https://www.wowhead.com/ptr-2/item=230192>)
+- [Signet of the Priory](<https://www.wowhead.com/item=219308>) (Better with more people using it)
+- [House of Cards](<https://www.wowhead.com/ptr-2/item=230027>)
+- [Soulletting Ruby](<https://www.wowhead.com/item=178809>) (Snipe low health targets)
 ## Notes
-In addition to the top trinkets for Raid and Mythic+ there are also several strong trinkets that drop from Delves that can drop up to Hero track. These will not be BiS because they cannot drop at Myth track but are typically stronger than other trinkets at equal item level and are good for gearing in the early-mid game of Season 1.
+In addition to the top trinkets for Raid and Mythic+ there are also several strong trinkets that drop from Delves that can drop up to Hero track. These will not be BiS because they cannot drop at Myth track but are typically stronger than other trinkets at equal item level and are good for gearing in the early-mid game of Season 2.
 - :shadow_knife: [Shadow-Binding Ritual Knife](<https://www.wowhead.com/item=215178>)
 - :quickwick: [Quickwick Candlestick](<https://www.wowhead.com/item=225649>)
-- :candle~1: [Candle Confidant](<https://www.wowhead.com/item=225648>) (ST Only)
+- [Suspicious Energy Drink](<https://www.wowhead.com/ptr-2/item=235363>)
+- [Funhouse Lens](<https://www.wowhead.com/ptr-2/item=234217>)
+- [Amorphous Relic](<https://www.wowhead.com/spell=446835>)
+
+[Synergistic Brewterializer](<https://www.wowhead.com/item=219299>) is looking to be very competitive in early testing but we still need to finish implementing this into SimC. Until this is finished it is oversimming.
 
 # Crafted Gear (Embellishments)
 ## Raiding Path
@@ -63,17 +53,17 @@ This section is focused on the best crafts in a Mythic+ environment. These ranki
 For Mythic+ you will notice :ascension: [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>) generally performing worse than other options if you have lots of downtime between pulls. While we suggest crafting this early to get our weapon item level, this is something you can consider phasing out of your gear entirely, depending on your typical pulls.
 
 ## Notes on Crafting
-You might see some people choose to use :bob: [Binding of Binding](<https://www.wowhead.com/item=215133>). This item can perform similarly to :ascension: [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>) but requires quite a lot of setup to get an increase out of since using it just by yourself does not provide any personal DPS benefit.
+Eventually we will want to use [Big Earner's Bludgeon](<https://www.wowhead.com/ptr-2/item=228901>) in all forms of content paired with the crafted off-hand. If you get this early enough at Hero track you could consider skipping crafting the 2-handed weapon.
 
 For more detail check out the [IcyVeins Guide](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot#crafted-profession-gear>).
 # Tier Set (S1) Value
 
 ## Single Target
-- 2 set: 2.1%
-- 2+4 set: 5.4%
+- 2 set: ~4-7%
+- 2+4 set: ~10-12%
 ## Dungeon Overall
-- 2 set: 1.7%
-- 2+4 set: 4.8%
+- 2 set: ~5%
+- 2+4 set: ~10%
 
 # Secondary Stats
 Your general stat priority is as follows:
