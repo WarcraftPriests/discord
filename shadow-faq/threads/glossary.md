@@ -6,7 +6,6 @@
 - **VT**: :vt: [Vampiric Touch](<https://www.wowhead.com/spell=34914>)
 - **MB**: :mb: [Mind Blast](<https://www.wowhead.com/spell=8092>)
 - **MF**: :mf: [Mind Flay](<https://www.wowhead.com/spell=15407>)
-- **MS**: :ms: [Mind Spike](<https://www.wowhead.com/spell=73510>)
 - **SWD**: :swd: [Shadow Word: Death](<https://www.wowhead.com/spell=32379>)
 - **DP** :dp: [Devouring Plague](<https://www.wowhead.com/spell=335467>)
 - **VF** :vf: [Voidform](<https://www.wowhead.com/spell=194249>)
@@ -16,7 +15,6 @@
 - **VC**: [Enemy Targeted Shadow Crash (i.e. Left Crash, used to be called Void Crash)](<https://www.wowhead.com/beta/spell=457042>)
 - **VoiT**: :voit: [Void Torrent](<https://www.wowhead.com/spell=263165>)
 - **MFI**: :mfi: [Mind Flay: Insanity](<https://www.wowhead.com/spell=391403>)
-- **MSI**: :msi: [Mind Spike: Insanity](<https://www.wowhead.com/spell=407466>)
 
 ### Passives
 - **SA**: :apps: [Shadowy Apparitions](<https://www.wowhead.com/spell=341491>)

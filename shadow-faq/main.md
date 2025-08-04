@@ -1,10 +1,17 @@
-## The War Within
-The sections have all been updated for TWW Launch for Season 1. There are lots of things still changing on the Blizzard side so expect certain things to change, particularly with Items, Trinkets, and Embellishments.
-- For a list of all the changes for Shadow Priest check out the [IcyVeins Guide](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-guide>)
-### Known Issues
-All bugs can be found [here](<https://github.com/SimCMinMax/WoW-BugTracker/issues?q=is%3Aopen+is%3Aissue+label%3APriest+>).
+## Manaforge Omega Guides
+- :icyveins1: [IcyVeins](<>) :construction:
+- :wowhead~1: [Wowhead](<>) :construction:
+## :keystone~1: Mythic+ Guides
+- :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-mythic-plus-tips>) :construction:
+- :wowhead~1: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/mythic-plus-dungeon-tips>) :construction:
+## Other Guides
+:punchcard: [**Elvenbane's Macro Guide**](<https://us.forums.blizzard.com/en/wow/t/useful-macro-templates/42937>)
+:logs: [**Publik's Log Review Guide**](<https://www.icy-veins.com/wow/how-to-improve-shadow-priest#log-review-guide>)
+## Sim Resources
+:raidbots: [**Sim Charts**](<https://warcraftpriests.github.io/>) 
+:scroll~1: [**Sim Repo**](<https://github.com/WarcraftPriests/tww-shadow-priest>)
+:keystone: [**Dungeon Sim Guide**](<https://warcraftpriests.github.io/bookofshadows/guides/dungeonsims>)
 
-See something missing? Be sure to let a staff member know.
-
+Want to subscribe to Shadow Priest news? Head on over to #welcome-read-first and click the :shadow: emote to opt-in. You'll receive a notification when we have something new to share about the Shadow Priest world.
 ## Changelog
-- **8/22/2024**: Update for the launch of Early Access and Season 1 info being released.
+- <t:1754332740:R> Initial Update for Patch 11.2 and Season 3.

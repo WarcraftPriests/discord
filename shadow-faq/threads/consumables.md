@@ -4,11 +4,10 @@
 # Consumables
 - Flask: [Flask of Alchemical Chaos](<https://www.wowhead.com/item=212283>)
 - Potion: [Tempered Potion](<https://www.wowhead.com/item=212265>)
-- Food: Currently all of these are very insignificant and close together. Using almost anything is going to be optimal.
-  - Feast: [Feast of the Midnight Masquerade](<https://www.wowhead.com/item=222733>)
-  - Normal: [Chippy Tea](<https://www.wowhead.com/item=222736>) (marginally better than feast)
+- Food: Starting with Season 3, Feast is behind normal food. We suggest no longer using this.
+  - Mastery + Haste: [Chippy Tea](<https://www.wowhead.com/item=222736>)
 ## Enchants
-- Weapon: :enchant: [Authority of the Depths](<https://www.wowhead.com/item=223784>)
+- Weapon: :enchant: [Stonebound Artistry](<https://www.wowhead.com/ptr-2/item=223765>)
 - Weapon Oil: [Algari Mana Oil](<https://www.wowhead.com/item=224107>)
 - Legs: [Sunset Spellthread](<https://www.wowhead.com/item=222893>)
 - Chest: :enchant: [Crystalline Radiance](<https://www.wowhead.com/item=223692>)
