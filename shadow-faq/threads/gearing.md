@@ -1,17 +1,15 @@
 # Gearing Guides
 ## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot>) :wowhead~1: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/bis-gear>)
-# D.I.S.C. Belt
-Use the mastery or crit proc. Will eventually be replaced with a 710-714+ belt item.
 # Trinkets
 This section lists the top trinkets to consider that drop from Raids and Mythic+. Oftentimes these are extremely close together and you can easily do well with any combination.
 ## Raid
-- [Astral Antenna](<https://www.wowhead.com/ptr-2/item=242395>)
-- [Araz's Ritual Forge](<https://www.wowhead.com/ptr-2/item=242402>)
-- [Diamantine Voidcore](<https://www.wowhead.com/ptr-2/item=242392>)
+- [Astral Antenna](<https://www.wowhead.com/item=242395>)
+- [Araz's Ritual Forge](<https://www.wowhead.com/item=242402>)
+- [Diamantine Voidcore](<https://www.wowhead.com/item=242392>)
 ## Dungeons
 - [Signet of the Priory](<https://www.wowhead.com/item=219308>) (Better with more people using it)
-- [Lily of the Eternal Weave](<https://www.wowhead.com/ptr-2/item=242494>)
-- [Azhiccaran Parapodia](<https://www.wowhead.com/ptr-2/item=242497>)
+- [Lily of the Eternal Weave](<https://www.wowhead.com/item=242494>)
+- [Azhiccaran Parapodia](<https://www.wowhead.com/item=242497>)
 # Crafted Gear (Embellishments)
 ## Raiding Path
 This section is focused on the best crafts in a Raiding environment. These rankings tend to prefer more consistent effects that specialize in single-target damage.
@@ -36,31 +34,15 @@ This section is focused on the best crafts in a Mythic+ environment. These ranki
 For Mythic+ you will notice :ascension: [Darkmoon Sigil: Ascension](<https://www.wowhead.com/item=226024>) generally performing worse than other options if you have lots of downtime between pulls. While we suggest crafting this early to get our weapon item level, this is something you can consider phasing out of your gear entirely, depending on your typical pulls.
 
 For more detail check out the [IcyVeins Guide](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gear-best-in-slot#crafted-profession-gear>).
-# Tier Set (S3) Value
-## Voidweaver
-### Single Target
-- 2 set: ~15%
-- 2+4 set: ~26%
-### Mythic+
-- 2 set: ~13%
-- 2+4 set: ~25%
-## Archon
-### Single Target
-- 2 set: ~3%
-- 2+4 set: ~16%
-### Mythic+
-- 2 set: ~2%
-- 2+4 set: ~13%
 # Secondary Stats
 Your general stat priority is as follows:
 ## Single Target
 ```
-Mastery > Haste > Critical Strike > Versatility
+Haste >= Mastery > Critical Strike > Versatility
 ```
-Voidweaver only wants about ~20% haste and Archon around ~30% haste.
 ### AoE/Mythic+
 ```
-Haste >= Mastery > Critical Strike >= Versatility
+Haste > Mastery > Critical Strike >= Versatility
 ```
 
 Note that the following are simply examples. You should sim your character for individual gear swaps, these are just a range to look for.

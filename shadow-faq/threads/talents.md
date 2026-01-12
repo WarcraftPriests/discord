@@ -1,49 +1,59 @@
 # Talent Guides
 ## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-spec-builds-talents>) :wowhead: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/talent-builds-pve-dps>)
 
-# Pre-Season
-Before you get access to the Season 3 4-piece bonus I highly suggest defaulting to Archon. Voidweaver does not really become viable until then.
-
 # Talent Builds
-You should feel free to play :voidweaver: Voidweaver or :archon~1: Archon in any content as a PvE Shadow Priest once you get access to Season 3 tier. Either option is viable and most of the [differences between the two](<https://www.icy-veins.com/wow/shadow-priest-hero-talents-pve-guide>) will come down to preferences or preferences based on playstyle for that particular fight rather than sim DPS.
+With current tuning in pre-patch :archon~1: Archon is struggling to be viable in most forms of content and :voidweaver: Voidweaver should be considered your default.
 
+_Note_: the following builds have specifically been optimized for pre-patch. Build variety and viability will be different once we get access to Apex Talents in Midnight.
 # Leveling
 For these builds be sure to check out the [guide](<https://www.icy-veins.com/wow/shadow-priest-leveling-guide>) directly for exact talent pathing suggestions as you level!
-
-[Archon](<https://www.icy-veins.com/wow/shadow-priest-leveling-guide>)
+## [Archon](<https://www.icy-veins.com/wow/shadow-priest-leveling-guide>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMwAAAAAAAAAAAAAjxiZMzMbLbmZGjZmZZwsxMzMDbjZBMGmltZbqZgFYAmZzywsZAIjxCAsZMA
+CIQAAAAAAAAAAAAAAAAAAAAAAYY2mBAAAAAAAAAAAwMsMzMjlZGmZzMMDbzYMzMDIzgZaAMAzsYGmNDAZMWAwYMYMzMjZbMDAmB
 ```
-
-[Voidweaver](<https://www.icy-veins.com/wow/shadow-priest-leveling-guide?area=area_2>)
+## [Voidweaver](<https://www.icy-veins.com/wow/shadow-priest-leveling-guide?area=area_2>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMwYAAAAAAAAAAAAYMWMjZmZxmZmxYegZWGMbMzMzw2YWAjhZZb2maGYBmZGAIAz2ssBmNWAsZMA
+CIQAAAAAAAAAAAAAAAAAAAAAAYY2mBAAAAAAAAAAAwMsMzMjlZGmZzMMDbzYMzMDIzgZaAMzMAQAmtZDY2YAGjBjZmZMbjZADmB
 ```
 # Archon
-## [Single Target](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVFFUVQQZhBSBEVCUQEFVVUBR>)
+## [Single Target](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/archon/DAQEFBVBVABQFWVUggVBQPRRVUVQRVUAUCYFQCUQFFRUVEBQ>)
+Only use this for _pure_ single target.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZY2MAkxYBA2GA
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxDYzMGLzMY2mZGzw2MGzMzAyMYmGgZAmZxMMbGAyYsAgZGwYmZGz2YGAMDA
 ```
-## [Three Target](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZRBSBEVCUQEFVVUBR>)
+## [Cleave](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/archon/DAQEFBVBVABQFWVUggVBQPVRUUVQRVUAUCYFQCUQFFRUVEBQ>)
+Use this for any situation that has more than 1 target aside from Mythic+.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMMeAAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZY2MAkxYBA2mB
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxDYzMGLzMMz2MDzw2MGzMzAyMYmGgZAmZxMMbGAyYsAgZGwYmZGz2YGAMDA
 ```
-## [Mythic+](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVVFUVQRZBBSBEVCUQEFVVUBR>)
-By default this build runs :sustained_potency: [Sustained Potency](<https://www.wowhead.com/spell=454001>) for more single target, sustained AoE, and the out of combat pause mechanic for :voidform: [Voidform](<https://www.wowhead.com/spell=194249>). You can still run :energy_compression: [Energy Compression](<https://www.wowhead.com/spell=449874>) if you are strictly looking for more burst AoE potential.
+## Mythic+
+Misery is preferred for most situations, but if you want to favor low target cleave or sustained multi-target feel free to try out Invoked Nightmare as well.
+### [Misery](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/archon/DAQEFBVBVABQFWVUggVBQPVRUUVQRVUAUCYFQCEAFFRUVEBQ>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMMAAAAAAAAAAAAYMWGjZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZY2MAkxYBA2mB
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxDYxMGLzMMzyMDzw2MGzMzAyMYmGgZAmZxMMbGAyYsAgZGwYmZGz2YGAMDA
+```
+### [Invoked Nightmare](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/archon/DAQEFBVBVABQFWVUggVBQPVRUUVQRVUAUCYFQCUAFFRUVEBQ>)
+```
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxDYxMGLzMMz2MDzw2MGzMzAyMYmGgZAmZxMMbGAyYsAgZGwYmZGz2YGAMDA
 ```
 # Voidweaver
-## [Single Target](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZRASAlRCRUEFVVUCVA>)
+## [Single Target](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/voidweaver/DAQEFBVBVABQFWVUggVBQORRVUVQREWQVCQVCUAFFVUUEBU>)
+Only use this for _pure_ single target.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMDMzDAAAAAAAAAAAAYM2GMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGbA2mB
+CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMY2mZGzw2MGzMzAyMYmGgZmZAgAMbzGwsxAMGDGzMzY2GzAGMDA
 ```
-## [Three Target](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVURZBASAlRCRUEFVVUCVA>)
+## [Cleave](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/voidweaver/DAQEFBVBVABQFWVUggVBQOVRUUVQREWQVCQVCUAFFVUUEBU>)
+Use this for any situation that has more than 1 target. This is the same build as the Invoked Nightmare Mythic+ build below.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMDMDAAAAAAAAAAAAjx2gZmZZbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGbA2mB
+CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMz2MDzw2MGzMzAyMYmGgZmZAgAMbzGwsxAMGDGzMzY2GzAGMDA
 ```
-## [Mythic+](<https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVVFUVQRZBASAlRCRUEFVVUCVA>)
-This build will naturally do better in lower/weekly keys. If packs start living long enough for :vf: [Voidform](<https://www.wowhead.com/spell=194249>) you should consider swapping to Archon.
+## Mythic+
+Misery is preferred for most situations, but if you want to favor low target cleave or sustained multi-target feel free to try out Invoked Nightmare as well.
+### [Misery](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/voidweaver/DAQEFBVBVABQFWVUggVBQOVRUUVQREWQVCQVCEAFFVUUEBU>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMDMDAAAAAAAAAAAAjx2YMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLgZjNAbzA
+CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMzyMDzw2MGzMzAyMYmGgZmZAgAMbzGwsxAMGDGzMzY2GzAGMDA
+```
+### [Invoked Nightmare](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/voidweaver/DAQEFBVBVABQFWVUggVBQOVRUUVQREWQVCQVCUAFFVUUEBU>)
+```
+CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMz2MDzw2MGzMzAyMYmGgZmZAgAMbzGwsxAMGDGzMzY2GzAGMDA
 ```
