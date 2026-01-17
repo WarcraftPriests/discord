@@ -17,7 +17,7 @@
 ### Passives
 - **SA**: :apps: [Shadowy Apparitions](<https://www.wowhead.com/spell=341491>)
 - **SI**: :insight: [Shadowy Insight](<https://www.wowhead.com/spell=375888>)
-- **AM**: :am: [Ancient Madness](<>)
+- **AM**: :am: [Ancient Madness](<https://www.wowhead.com/spell=1231346>)
 - **MT**: :vt: [Maddening Touch](<https://www.wowhead.com/spell=391228>)
 - **AS**: :spirits: [Auspicious Spirits](<https://www.wowhead.com/spell=155271>)
 - **PL**: :pl: [Psychic Link](<https://www.wowhead.com/spell=199484>)

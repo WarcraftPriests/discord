@@ -4,6 +4,7 @@
 - :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-mythic-plus-tips>)
 - :wowhead: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/mythic-plus-dungeon-tips>)
 ## Other Guides
+:youtube: [**Publik's Pre-Patch Guide**](<https://youtu.be/ukXLHngaizA>)
 :punchcard: [**Elvenbane's Macro Guide**](<https://us.forums.blizzard.com/en/wow/t/useful-macro-templates/42937>)
 :logs: [**Publik's Log Review Guide**](<https://www.icy-veins.com/wow/how-to-improve-shadow-priest#log-review-guide>)
 ## Sim Resources
