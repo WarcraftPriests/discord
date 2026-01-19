@@ -1,5 +1,5 @@
 ## Manaforge Omega Guides
-- :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-manaforge-omega-raid-guide>) :checkicon: 
+- :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-manaforge-omega-raid-guide>)
 ## :keystone~1: Mythic+ Guides
 - :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-mythic-plus-tips>)
 - :wowhead: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/mythic-plus-dungeon-tips>)
