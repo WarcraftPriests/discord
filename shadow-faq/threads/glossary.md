@@ -34,6 +34,5 @@
 - **LoF**: [Leap of Faith](<https://www.wowhead.com/spell=73325>)
 - **MD**: [Mass Dispel](<https://www.wowhead.com/spell=32375>)
 - **PI**: :pi: [Power Infusion](<https://www.wowhead.com/spell=10060>)
-
 ### Passives
 - **ToF** :tof: [Twist of Fate](<https://www.wowhead.com/spell=109142>)

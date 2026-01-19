@@ -1,6 +1,5 @@
 # Talent Guides
 ## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-spec-builds-talents>) :wowhead: [Wowhead](<https://www.wowhead.com/guide/classes/priest/shadow/talent-builds-pve-dps>)
-
 # Talent Builds
 With current tuning in pre-patch :archon~1: Archon is struggling to be viable in most forms of content and :voidweaver: Voidweaver should be considered your default.
 
