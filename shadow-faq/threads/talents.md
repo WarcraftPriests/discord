@@ -8,51 +8,51 @@ _Note_: the following builds have specifically been optimized for pre-patch. Bui
 For these builds be sure to check out the [guide](<https://www.icy-veins.com/wow/shadow-priest-leveling-guide>) directly for exact talent pathing suggestions as you level!
 ## [Archon](<https://www.icy-veins.com/wow/shadow-priest-leveling-guide>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAYY2mBAAAAAAAAAAAwMsMzMjlZGmZzMMDbzYMzMDIzgZaAMAzsYGmNDAZMWAwYMYMzMjZbMDAmB
+CIQAAAAAAAAAAAAAAAAAAAAAAYY2mBAAAAAAAAAAAwMsMzMjlZGmZzMMDbGMzMjNkZsYmGADwMLmhZzAQGjFAMGDGzMzY2GzAgZAA
 ```
 ## [Voidweaver](<https://www.icy-veins.com/wow/shadow-priest-leveling-guide?area=area_2>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAYY2mBAAAAAAAAAAAwMsMzMjlZGmZzMMDbzYMzMDIzgZaAMzMAQAmtZDY2YAGjBjZmZMbjZADmB
+CIQAAAAAAAAAAAAAAAAAAAAAAYY2mBAAAAAAAAAAAwMsMzMjlZGmZzMMDbGMzMjNkZsYmGAzMDAEgZb2AmNGgxYwYmZGz2YGwgZAA
 ```
 # Archon
-## [Single Target](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/archon/DAQEFBVBVABQFWVUggVBQPRRVUVQRVUAUCYFQCUQFFRUVEBQ>)
+## [Single Target](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWUEggVBRPRRVUVQRVUAUCYFQCUQFFRUVEBQ>)
 Only use this for _pure_ single target.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxDYzMGLzMY2mZGzw2MGzMzAyMYmGgZAmZxMMbGAyYsAgZGwYmZGz2YGAMDA
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxDYzMGLzMY2mZGzwmBzMzYDZGLmpBYGgZWMDzmBgMGLAYmBMmZmxsNmBAzAA
 ```
-## [Cleave](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/archon/DAQEFBVBVABQFWVUggVBQPVRUUVQRVUAUCYFQCUQFFRUVEBQ>)
+## [Cleave](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWUEggVBRPVRUVVQRUUAUCYFQCUQFFRUVEBQ>)
 Use this for any situation that has more than 1 target aside from Mythic+.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxDYzMGLzMMz2MDzw2MGzMzAyMYmGgZAmZxMMbGAyYsAgZGwYmZGz2YGAMDA
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgBbmxYZmhZ2mZYG2MYmZGbIzYxMNAzAMziZY2MAkxYBAzMDMmZmxsNmBAzAA
 ```
 ## Mythic+
 Misery is preferred for most situations, but if you want to favor low target cleave or sustained multi-target feel free to try out Invoked Nightmare as well.
-### [Misery](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/archon/DAQEFBVBVABQFWVUggVBQPVRUUVQRVUAUCYFQCEAFFRUVEBQ>)
+### [Misery](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWUEggVBRPVRUVVQRUUAUCYFQCEAFFRUVEBQ>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxDYxMGLzMMzyMDzw2MGzMzAyMYmGgZAmZxMMbGAyYsAgZGwYmZGz2YGAMDA
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgBLmxYZmhZWmZYG2MYmZGbIzYxMNAzAMziZY2MAkxYBAzMDMmZmxsNmBAzAA
 ```
-### [Invoked Nightmare](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/archon/DAQEFBVBVABQFWVUggVBQPVRUUVQRVUAUCYFQCUAFFRUVEBQ>)
+### [Invoked Nightmare](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWUEggVBRPVRUVVQRUUAUCYFQCUAFFRUVEBQ>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxDYxMGLzMMz2MDzw2MGzMzAyMYmGgZAmZxMMbGAyYsAgZGwYmZGz2YGAMDA
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgBLmxYZmhZ2mZYG2MYmZGbIzYxMNAzAMziZY2MAkxYBAzMDMmZmxsNmBAzAA
 ```
 # Voidweaver
-## [Single Target](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/voidweaver/DAQEFBVBVABQFWVUggVBQORRVUVQREWQVCQVCUAFFVUUEBU>)
+## [Single Target](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWUEggVBRORRVUVQREWQVCQVCUAFFVUUEBU>)
 Only use this for _pure_ single target.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMY2mZGzw2MGzMzAyMYmGgZmZAgAMbzGwsxAMGDGzMzY2GzAGMDA
+CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMY2mZGzwmBzMzYDZGLmpBYmZGAIAz2sBMbMAjxgxMzMmtxMgBzAA
 ```
-## [Cleave](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/voidweaver/DAQEFBVBVABQFWVUggVBQOVRUUVQREWQVCQVCUAFFVUUEBU>)
+## [Cleave](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWUEggVBROVRUUVQREWQVCQVCUAFFVUUEBU>)
 Use this for any situation that has more than 1 target. This is the same build as the Invoked Nightmare Mythic+ build below.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMz2MDzw2MGzMzAyMYmGgZmZAgAMbzGwsxAMGDGzMzY2GzAGMDA
+CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMz2MDzwmBzMzYDZGLmpBYmZGAIAz2sBMbMAjxgxMzMmtxMgBzAA
 ```
 ## Mythic+
 Misery is preferred for most situations, but if you want to favor low target cleave or sustained multi-target feel free to try out Invoked Nightmare as well.
-### [Misery](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/voidweaver/DAQEFBVBVABQFWVUggVBQOVRUUVQREWQVCQVCEAFFVUUEBU>)
+### [Misery](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWUEggVBROVRUUVQREWQVCQVCEAFFVUUEBU>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMzyMDzw2MGzMzAyMYmGgZmZAgAMbzGwsxAMGDGzMzY2GzAGMDA
+CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMzyMDzwmBzMzYDZGLmpBYmZGAIAz2sBMbMAjxgxMzMmtxMgBzAA
 ```
-### [Invoked Nightmare](<https://www.wowhead.com/ptr/talent-calc/priest/shadow/voidweaver/DAQEFBVBVABQFWVUggVBQOVRUUVQREWQVCQVCUAFFVUUEBU>)
+### [Invoked Nightmare](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWUEggVBROVRUUVQREWQVCQVCUAFFVUUEBU>)
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMz2MDzw2MGzMzAyMYmGgZmZAgAMbzGwsxAMGDGzMzY2GzAGMDA
+CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMz2MDzwmBzMzYDZGLmpBYmZGAIAz2sBMbMAjxgxMzMmtxMgBzAA
 ```
