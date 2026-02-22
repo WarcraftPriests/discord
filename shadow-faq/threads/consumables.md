@@ -1,19 +1,17 @@
 # Prep Guides
 ## :icyveins1: [IcyVeins](<https://www.icy-veins.com/wow/shadow-priest-pve-dps-gems-enchants-consumables>)
-
 # Consumables
-- Flask: [Flask of Alchemical Chaos](<https://www.wowhead.com/item=212283>)
-- Potion: [Tempered Potion](<https://www.wowhead.com/item=212265>)
-- Food: Starting with Season 3, Feast is behind normal food. We suggest no longer using this.
-  - Mastery + Haste: [Chippy Tea](<https://www.wowhead.com/item=222736>)
+- Flask: [Flask of the Blood Knights](<>) or [Flask of the Magisters](<>)
+- Potion: [Light's Potential](<>)
+- Food: Any **Feast** or [Warped Wise Wings](<>) / [Fel-Kissed Filet](<>) if you do not have access to a Feast.
 ## Enchants
-- Weapon: :enchant: [Stonebound Artistry](<https://www.wowhead.com/ptr-2/item=223765>)
-- Weapon Oil: [Algari Mana Oil](<https://www.wowhead.com/item=224107>)
-- Legs: [Sunset Spellthread](<https://www.wowhead.com/item=222893>)
-- Chest: :enchant: [Crystalline Radiance](<https://www.wowhead.com/item=223692>)
+- Weapon: :enchant: [Stonebound Artistry](<>)
+- Weapon Oil: [Thalassian Phoenix Oil](<>)
+- Legs: [Sunset Spellthread](<>)
+- Chest: :enchant: [Crystalline Radiance](<>)
 - Ring Enchant Priority:
-  - **Below 20% haste?** :enchant: [Radiant Haste](<https://www.wowhead.com/item=223674>)
-  - **At or above 20% haste?** :enchant: [Radiant Mastery](<https://www.wowhead.com/item=223677>)
+  - **Below 20% haste?** :enchant: [Radiant Haste](<>)
+  - **At or above 20% haste?** :enchant: [Radiant Mastery](<>)
 ## Gems
 For the War Within you want to use [Elusive Blasphemite](<https://www.wowhead.com/item=213746>) as your epic gem. To scale this gem we want to use one of every color
 gem _except_ for Amber. Use the below list as a rough order to socket into your gear.

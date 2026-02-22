@@ -10,7 +10,9 @@ The following are suggested Addons to get started building your UI as a Shadow P
 The following are a list of community UI packs that are designed for Shadow Priests specifically.
 
 If you would like to submit your own please message `publik` with a link collection and screenshot.
-## Publik :checkicon:
+## Publik
 - [Links](<https://warcraftpriests.github.io/bookofshadows/guides/ui>)
-## Sola :checkicon:
-- [Links](<https://pastecode.io/collections/cko1q2>)
+## Sola
+- [Links](<https://uipacks.wago.io/pack/sola-ui>)
+## SammeVT UI Midnight
+- [Links](<https://pastecode.io/collections/i3s46u>)
