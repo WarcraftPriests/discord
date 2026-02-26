@@ -32,10 +32,9 @@ Below is a list of dungeons to consider farming for good stats before the season
 - Trinket
 # Best Trinkets in Pre-Season
 ## S-Tier
-- [Darkmoon Deck: Hunt](<https://www.wowhead.com/item=245829>)
-## A-Tier
 - [Vessel of Tortured Souls](<https://www.wowhead.com/item=250258>)
 - [Lightspire Core](<https://www.wowhead.com/item=250214>)
+## A-Tier
 - [Heart of Wind](<https://www.wowhead.com/item=250256>)
 - [Freightrunners Flask](<https://www.wowhead.com/item=250215>)
 - [Darkmoon Deck: Blood](<https://www.wowhead.com/item=245855>)
