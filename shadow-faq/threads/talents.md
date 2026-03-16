@@ -13,43 +13,43 @@ CIQAAAAAAAAAAAAAAAAAAAAAAAzmBAAAAAAAAAAAwYsYGjlxYmZzMmZYbmZMzMjNkZsYmGADwMLmhZzA
 CIQAAAAAAAAAAAAAAAAAAAAAAAzmBAAAAAAAAAAAwYsYGjlxYmZzMmZYbmZMzMjNkZsYmGAzMDAEgZb22AzGDwYmZYMzMjZjZwMDmBD
 ```
 # Archon
-## [Single Target](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWUEggVBRORRVURBRSSREiIECUQFFRUVEBQ>)
+## [Single Target](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWVUkgVBRPRRVUVQQWUAUCYFdCUAFFVVVUCQQ>)
 Only use this for _pure_ single target.
 ```
 CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMY2mZGzw2MzYmZGbIzYxMNAzAMziZY2MAkxYBAzAMmZmxsNmZbZAmBD
 ```
-## [Cleave](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWUEggVBROVRUURBRSSREiIECUQFFRUVEBQ>)
+## [Cleave](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWVUkgVBRPVRUUVQQWUAUCYFdCUAFFVVVUCQQ>)
 Use this for any situation that has more than 1 target.
 ```
 CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMziZY2MAkxYBAzAMmZmxsNmZbZAmBD
 ```
-## [Delves](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWUEggVBROVRUURBRSSREiIECUQFFRUVEBQ>)
+## [Delves](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRRUBVEWEVgkVCUQPVRUVVQRVQAUCYFdCUAFFVVVUCQQ>)
 This build specifically alters the Cleave build with more relevant Class talents for Delve content.
 ```
 CIQAAAAAAAAAAAAAAAAAAAAAAMMjZAAAAAAAAAAAAMeALmxYZmhZ2mZYmx2MYmZmZDZGLb0AMDwMLmhZzAQGjFAMzMgZmZmZ2GzstMAzgB
 ```
-## [Mythic+](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWUEggVBROVVUUVBRSQREiIECEAFFRUVEBQ>)
+## [Mythic+](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWVUkgVBRPVRUVVQQWQAUCYFdCEAFFVVVUCQQ>)
 Misery is preferred for most situations, but if you want to favor low target cleave or sustained multi-target feel free to try out Invoked Nightmare as well.
 ```
 CIQAAAAAAAAAAAAAAAAAAAAAAMMjZAAAAAAAAAAAAMGLmxYZmhZWmZYG2mZGzMzYDZGLmpBYGgZWMDzmBgMGLAYGDMmZmxsNmZbZAmBD
 ```
 # Voidweaver
-## [Single Target](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWUEggVBRORRVURBRSSREiIECUQFFVVQEBU>)
+## [Single Target](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWVUkgVBRPRRVUVQRUVAUCYFdCUAFFVVVUBU>)
 Only use this for _pure_ single target.
 ```
 CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgBLmxYZmBz2MzYG2mZGzMzYDZGLmpBYmZGAIAz2stAmNGgZGPAGzMzY2GzgZGMDGA
 ```
-## [Cleave](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWUEggVBROVRUURBRSSREiIECUQFFVVQEBU>)
+## [Cleave](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWVUkgVBRPVRUUVQRUVAUCYFdCUAFFVVVUBU>)
 Use this for any situation that has more than 1 target.
 ```
 CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgBLmxYZmhZ2mZYG2mZGzMzYDZGLmpBYmZGAIAz2stAmNGgZGPAGzMzY2GzgZGMDGA
 ```
-## [Delves](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWUEggVBROVRUURBRSSREiIECUQFFRUVEBQ>)
+## [Delves](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRRUBVEWEVgkVCUQPVRUVVQRVQAUCYFdCUAFFVVVUBU>)
 This build specifically alters the Cleave build with more relevant Class talents for Delve content.
 ```
 CIQAAAAAAAAAAAAAAAAAAAAAAMMjZAAAAAAAAAAAAMeALmxYZmhZ2mZYmx2MYmZmZDZGLb0AMzMDAEgZb2WAzGDwMzAmZmZmZbMDmZwMYA
 ```
-## [Mythic+](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWUEggVBROVVUURBRSRREiIECEAFFVVQEBU>)
+## [Mythic+](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWVUkgVBRPVRUVVQRVQAUCYFdCEAFFVVVUBU>)
 Misery is preferred for most situations, but if you want to favor low target cleave or sustained multi-target feel free to try out Invoked Nightmare as well.
 ```
 CIQAAAAAAAAAAAAAAAAAAAAAAMMjZAAAAAAAAAAAAMeALmxYZmhZWmZYG2mZGzMzYDZGLmpBYmZGAIAz2stAmNGgZmBGzMzY2GzgZGMDGA

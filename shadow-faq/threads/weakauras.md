@@ -11,8 +11,8 @@ The following are a list of community UI packs that are designed for Shadow Prie
 
 If you would like to submit your own please message `publik` with a link collection and screenshot.
 ## Publik
-- [Links](<https://warcraftpriests.github.io/bookofshadows/guides/ui>)
+- [Links to Download UI](<https://warcraftpriests.github.io/bookofshadows/guides/ui>)
 ## Sola
-- [Links](<https://uipacks.wago.io/pack/sola-ui>)
+- [Links to Download UI](<https://uipacks.wago.io/pack/sola-ui>)
 ## SammeVT UI Midnight
-- [Links](<https://pastecode.io/collections/i3s46u>)
+- [Links to Download UI](<https://pastecode.io/collections/i3s46u>)
