@@ -9,7 +9,7 @@
 - Weapon Oil: [Thalassian Phoenix Oil](<https://www.wowhead.com/item=243733>)
 - Legs: [Sunfire Silk Spellthread](<https://www.wowhead.com/item=240133>)
 - Chest: :enchant: [Mark of Worldsoul](<https://www.wowhead.com/item=243977>)
-- Ring Enchants: :enchant: [Arcane Mastery](<https://www.wowhead.com/item=244031>) or :enchant: [Berserker's Rage](<https://www.wowhead.com/item=243973>)
+- Ring Enchants: :enchant: [Zul'jin's Mastery](<https://www.wowhead.com/item=243959>) or :enchant: [Silvermoon's Alacrity](<https://www.wowhead.com/item=244014>)
 Be sure to also enchant your Helm, Shoulders, and Feet with your choice of non-throughput enchant. I would suggest Speed versions due to Shadow Priests low mobility:
 - Helm: :enchant: [Empowered Blessing of Speed](<https://www.wowhead.com/item=243981>)
 - Shoulders: :enchant: [Akil'zon's Swiftness](<https://www.wowhead.com/item=243962>)

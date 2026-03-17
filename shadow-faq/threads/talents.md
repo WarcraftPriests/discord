@@ -13,44 +13,34 @@ CIQAAAAAAAAAAAAAAAAAAAAAAAzmBAAAAAAAAAAAwYsYGjlxYmZzMmZYbmZMzMjNkZsYmGADwMLmhZzA
 CIQAAAAAAAAAAAAAAAAAAAAAAAzmBAAAAAAAAAAAwYsYGjlxYmZzMmZYbmZMzMjNkZsYmGAzMDAEgZb22AzGDwYmZYMzMjZjZwMDmBD
 ```
 # Archon
-## [Single Target](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWVUkgVBRPRRVUVQQWUAUCYFdCUAFFVVVUCQQ>)
-Only use this for _pure_ single target.
-```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMY2mZGzw2MzYmZGbIzYxMNAzAMziZY2MAkxYBAzAMmZmxsNmZbZAmBD
-```
-## [Cleave](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWVUkgVBRPVRUUVQQWUAUCYFdCUAFFVVVUCQQ>)
+## [Raid](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWVUkgVBRPVRUUVQQWUAUCYFdCUAFFVVVUCRQ>)
 Use this for any situation that has more than 1 target.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMziZY2MAkxYBAzAMmZmxsNmZbZAmBD
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD
 ```
-## [Delves](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRRUBVEWEVgkVCUQPVRUVVQRVQAUCYFdCUAFFVVVUCQQ>)
+## [Delves](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVUBREWFUkgVCUQPVRUVVQUUUAUCYFdCEAFFVVVUCQQ>)
 This build specifically alters the Cleave build with more relevant Class talents for Delve content.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZAAAAAAAAAAAAMeALmxYZmhZ2mZYmx2MYmZmZDZGLb0AMDwMLmhZzAQGjFAMzMgZmZmZ2GzstMAzgB
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMMzyMDzw2MzYmZmZDZGLb0AMDwMLmhZzAQGjFAMjBGzMzY2GzstMAzgB
 ```
-## [Mythic+](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWVUkgVBRPVRUVVQQWQAUCYFdCEAFFVVVUCQQ>)
+## [Mythic+](<https://www.wowhead.com/talent-calc/priest/shadow/archon/EAQEFBVRVEBQFWVUkgVBRPVRUVVQUUUAUCYFdCEAFFVVVUCQQ>)
 Misery is preferred for most situations, but if you want to favor low target cleave or sustained multi-target feel free to try out Invoked Nightmare as well.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZAAAAAAAAAAAAMGLmxYZmhZWmZYG2mZGzMzYDZGLmpBYGgZWMDzmBgMGLAYGDMmZmxsNmZbZAmBD
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMMzyMDzw2MzYmZGbIzYxMNAzAMziZY2MAkxYBAzYgxMzMmtxMbLDwMYA
 ```
 # Voidweaver
-## [Single Target](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWVUkgVBRPRRVUVQRUVAUCYFdCUAFFVVVUBU>)
-Only use this for _pure_ single target.
-```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgBLmxYZmBz2MzYG2mZGzMzYDZGLmpBYmZGAIAz2stAmNGgZGPAGzMzY2GzgZGMDGA
-```
-## [Cleave](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWVUkgVBRPVRUUVQRUVAUCYFdCUAFFVVVUBU>)
+## [Raid](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWVUkgVBRPVRUUVQQWUAUCYFdCUAFFVVVUBU>)
 Use this for any situation that has more than 1 target.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgBLmxYZmhZ2mZYG2mZGzMzYDZGLmpBYmZGAIAz2stAmNGgZGPAGzMzY2GzgZGMDGA
+CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzMzAABY2mtFwsxAMDwYmZGz2YGMzgZwA
 ```
-## [Delves](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRRUBVEWEVgkVCUQPVRUVVQRVQAUCYFdCUAFFVVVUBU>)
+## [Delves](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVUBREWFUkgVCUQPVRUVVBRQSAUCYFdCEAFFVVVUBU>)
 This build specifically alters the Cleave build with more relevant Class talents for Delve content.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZAAAAAAAAAAAAMeALmxYZmhZ2mZYmx2MYmZmZDZGLb0AMzMDAEgZb2WAzGDwMzAmZmZmZbMDmZwMYA
+CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAgBLmxYZmxMzyMDzw2MzYmZmZDZGLb0AMzMDAEgZb2WAzGDwMzMYMzMjZjZwMDmBD
 ```
-## [Mythic+](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWVUkgVBRPVRUVVQRVQAUCYFdCEAFFVVVUBU>)
+## [Mythic+](<https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/EAQEFBVRVEBQFWVUkgVBRPVRUVVBRQSAUCYFdCEAFFVVVUBU>)
 Misery is preferred for most situations, but if you want to favor low target cleave or sustained multi-target feel free to try out Invoked Nightmare as well.
 ```
-CIQAAAAAAAAAAAAAAAAAAAAAAMMjZAAAAAAAAAAAAMeALmxYZmhZWmZYG2mZGzMzYDZGLmpBYmZGAIAz2stAmNGgZmBGzMzY2GzgZGMDGA
+CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAgBLmxYZmxMzyMDzw2MzYmZGbIzYxMNAzMzAABY2mtFwsxAMzMDGzMzY2YGMzgZwA
 ```
